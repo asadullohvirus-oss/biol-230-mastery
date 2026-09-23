@@ -1,7 +1,7 @@
 # Progress Dashboard
 
 Last updated: 2026-09-22
-Status: INFRASTRUCTURE READY / UNIT 1 INGESTION NEXT
+Status: UNIT 1 STUDY GUIDE INGESTION IN PROGRESS
 Official start: 2026-10-01
 
 ## Top-line status
@@ -16,7 +16,7 @@ Canonical GitHub repository: Ready
 Project Instructions: Ready
 Seven-chat architecture/playbooks: Ready
 Course orientation/general assessment structure: Ingested
-AU-custom textbook: Available in Project
+AU-custom textbook: Available
 Anki workflow specification: Ready
 Calendar strategy: Defined; individual exam dates not yet scheduled
 
@@ -24,7 +24,11 @@ Calendar strategy: Defined; individual exam dates not yet scheduled
 
 Units completed: 0 / 6
 Chapters completed: 0 / 23
-Required lessons completed: UNKNOWN denominator until Unit 1 Study Guide ingestion
+Unit 1 Study Guide ingestion:
+- Chapter 1: complete
+- Chapters 2–4: pending
+
+Chapter 1 learning: Not started
 Adaptive Practice completed: 0 / UNKNOWN
 
 ## Assessments
@@ -56,30 +60,24 @@ AU receipt/status confirmed: No
 ## Critical path
 
 Current blocker:
-No course-performance blocker yet. Infrastructure is ready; next academic input is Unit 1 Study Guide/material.
-
-Future lab-kit path:
-Assignment 2 completion/submission
-→ submit kit request as early as portal permits
-→ Assignment 2 mark
-→ shipment eligibility
-→ physical labs.
+Unit 1 source ingestion is incomplete; Chapters 2–4 Study Guide material is still needed before the full Unit 1 objective map is authoritative.
 
 Schedule risk:
-HIGH until actual study pace, Assignment 2 marking time, and kit-shipping time are known. The official course sequence spreads active work through roughly Week 47, while the admissions target compresses it to about nine weeks.
+HIGH until actual study pace, Assignment 2 marking time, and kit-shipping time are known.
 
 ## Workload assumption
 
 Initial accelerated capacity target: approximately 30–40 focused hours/week.
-This must be recalibrated after the first week using actual study/assignment timing.
+Recalibrate after the first week using actual study/assignment timing.
 
 ## Current objective
 
-Finish chat setup and then ingest Unit 1 Study Guide/material. Do not begin physiology teaching until Unit 1 source ingestion is complete and Asadulloh explicitly starts studying.
+Complete Unit 1 Study Guide ingestion, build the full Unit 1 objective map, then begin learning.
 
 ## Next priority
 
-1. Create/configure the seven specialized chats using CHAT-PLAYBOOKS.md.
-2. Ingest Unit 1 Study Guide/objectives and required lesson structure.
-3. Build the authoritative Unit 1 objective map.
-4. Begin Unit 1 learning only after the map is ready.
+1. Ingest Unit 1 Chapter 2 Study Guide.
+2. Ingest Unit 1 Chapter 3 Study Guide.
+3. Ingest Unit 1 Chapter 4 Study Guide.
+4. Reconcile full Unit 1 objectives against the AU-custom PDF.
+5. Begin Unit 1 in Chat 01 only after source map is complete.

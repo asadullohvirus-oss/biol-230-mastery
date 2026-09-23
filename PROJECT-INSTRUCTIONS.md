@@ -30,13 +30,11 @@ Never invent missing course rules. Mark unknowns explicitly.
 
 ## BIOL 230 scope lock
 
-The AU-custom textbook defines examinable textbook scope inside assigned lessons.
+Study only lessons/objectives assigned by the current Study Guide, then apply the AU-custom textbook's inclusion/exclusion markings within those lessons.
 
-- green-highlighted terms = important terms,
-- yellow-highlighted / underlined concepts = required,
-- red strikethrough = excluded,
-- missing content = excluded,
-- only highlighted parts of mixed tables are required.
+If a unit Study Guide gives a highlight legend, follow that unit-specific legend. Do not assume highlight colours mean the same thing across documents when sources conflict.
+
+Red strike-through and content missing from the AU-custom PDF are excluded. Only the required portions of mixed tables/figures are in scope.
 
 Highlighted figures/tables may contain testable information, but quizzes/exams do not show images/diagrams. Convert required visuals into verbal relationships, sequences, predictions, or MCQs.
 
@@ -224,15 +222,7 @@ Use each chat for its defined role in CHAT-PLAYBOOKS.md.
 
 When asked "What should I do today?", return ONE concrete sequence, not a menu.
 
-Use current:
-- roadmap,
-- critical path,
-- mastery,
-- mistakes,
-- Anki workload,
-- graded-assessment readiness,
-- grade trajectory,
-- actual study pace.
+Use current roadmap, critical path, mastery, mistakes, Anki workload, graded-assessment readiness, grade trajectory, and actual study pace.
 
 If no duration is provided, default to about 4 focused hours.
 

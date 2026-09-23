@@ -4,27 +4,37 @@ Last updated: 2026-09-22
 
 ## Academic scope rules
 
-- Study Guide determines which lessons are assigned.
-- AU-custom Derrickson PDF determines required content inside those lessons.
-- Important terms are highlighted in green.
-- Important concepts/processes are highlighted in yellow or underlined.
-- Red strikethrough content is excluded.
-- Missing content in the AU-custom PDF is excluded.
+- The Study Guide determines which lessons/objectives are assigned.
+- The AU-custom Derrickson PDF determines required content inside those assigned lessons.
+- Follow the highlight legend stated in the current unit Study Guide when one is provided.
+- Red strike-through and content missing from the AU-custom PDF are excluded.
 - Highlighted figures/tables may contain examinable information.
 - Quiz/exam questions do not include images or diagrams.
-- WileyPLUS/Adaptive Practice may contain out-of-scope content; ignore it when excluded by the AU-custom PDF.
+- WileyPLUS/Adaptive Practice may contain out-of-scope material; ignore material excluded by the Study Guide/AU-custom PDF.
+
+### Highlight-colour conflict handling
+
+The earlier general course orientation described highlight colours differently from the Unit 1 Study Guide.
+
+For Unit 1, use the more specific Unit 1 Study Guide:
+- green = required content
+- yellow = important terms
+- underline = processes/reviews
+
+Do not generalize this colour mapping to later units until their Study Guides are ingested.
 
 ## Recommended AU lesson process
 
-For each lesson AU recommends:
-- consult the Study Guide overview/objectives,
-- read the matching AU-custom textbook objectives,
+For each lesson:
+- consult Study Guide overview/objectives,
+- read matching AU-custom textbook objectives,
 - read assigned customized-textbook material,
-- use active rereading/notes rather than passive reading,
-- practice extensively with WileyPLUS,
-- ensure every objective and key term can be defined and used in context.
+- actively retrieve main points,
+- use WileyPLUS/Adaptive Practice,
+- verify every required objective and key term,
+- reproduce the sequence of any required multi-step process.
 
-Our system preserves those goals while replacing redundant passive rereading with closed-book retrieval and targeted second passes.
+Our system preserves these goals while replacing redundant passive rereading with closed-book retrieval and targeted rereading.
 
 ## Unit and chapter map
 
@@ -33,6 +43,9 @@ Our system preserves those goals while replacing redundant passive rereading wit
 2. Chemical Composition of the Body
 3. Cells
 4. Metabolism
+
+Chapter 1 Study Guide: ingested.
+Chapters 2–4 Study Guide: pending.
 
 Assessment links:
 - Quiz 1
@@ -122,8 +135,6 @@ Exam supplemental rule:
 
 ## Official suggested sequence
 
-The AU orientation sequences work approximately as follows:
-
 - Unit 1 → Quiz 1
 - Unit 2 → Quiz 2 → Assignment 1 → Midterm 1
 - Unit 3 → Quiz 3
@@ -131,7 +142,7 @@ The AU orientation sequences work approximately as follows:
 - Unit 5 → Quiz 5
 - Unit 6 → Quiz 6 → Assignment 3 → Lab Assignment/kit return → Final
 
-This ordering is now treated as authoritative sequencing guidance. Our accelerated roadmap changes timing, not dependencies.
+This ordering is authoritative sequencing guidance. The accelerated roadmap changes timing, not dependencies.
 
 ## Lab architecture
 
@@ -145,7 +156,7 @@ Part 2:
 
 Home Lab Kit:
 - AU's suggested schedule places the request alongside Assignment 2 completion,
-- detailed instructions state shipment occurs only after Assignment 2 is completed and a mark has been received,
+- shipment occurs only after Assignment 2 is completed and a mark has been received,
 - kit must be returned after lab work,
 - transcript distribution is blocked until kit return.
 
@@ -162,11 +173,11 @@ Before writing the Final:
 - required course assignments submitted,
 - instructor feedback reviewed.
 
-For planning safety, treat the Lab Assignment as included in this requirement until clarified otherwise.
+For planning safety, treat the Lab Assignment as included until clarified otherwise.
 
 ## Unknowns still to ingest
 
-- exact Study Guide lesson assignments/objectives,
+- Unit 1 Chapters 2–4 Study Guide lessons/objectives,
 - actual Assignment 1–3 questions/rubrics,
 - exact Lab Manual activities and chapter dependencies,
 - assignment marking turnaround,
