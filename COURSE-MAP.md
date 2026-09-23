@@ -44,8 +44,10 @@ Our system preserves these goals while replacing redundant passive rereading wit
 3. Cells
 4. Metabolism
 
-Chapter 1 Study Guide: ingested.
-Chapters 2–4 Study Guide: pending.
+Study Guide ingestion: COMPLETE.
+Assigned lessons: 25.
+Official objectives mapped: 47.
+Detailed scope/objectives: units/U01.md.
 
 Assessment links:
 - Quiz 1
@@ -177,7 +179,6 @@ For planning safety, treat the Lab Assignment as included until clarified otherw
 
 ## Unknowns still to ingest
 
-- Unit 1 Chapters 2–4 Study Guide lessons/objectives,
 - actual Assignment 1–3 questions/rubrics,
 - exact Lab Manual activities and chapter dependencies,
 - assignment marking turnaround,
