@@ -14,9 +14,22 @@ Complete BIOL 230 by approximately December 1–5, 2026 while targeting an A/A+ 
 - Anki = spaced-repetition scheduling for selected high-value cards
 - Google Calendar = hard milestones and risk-control reminders only
 
+## Chat architecture
+
+- 00 — MASTER: BIOL 230 Command Center
+- 01 — Learn: Mechanisms & Understanding
+- 02 — Recall & Physiology Problem Lab
+- 03 — Mistake Clinic & Anki
+- 04 — Assessments & Exam Simulator
+- 05 — Assignments & Lab Operations
+- 06 — Today: Study Coach
+
+See `CHAT-PLAYBOOKS.md` for exact ownership, setup prompts, and state-sync rules.
+
 ## Canonical files
 
 - PROJECT-INSTRUCTIONS.md — authoritative behavior for the ChatGPT Project
+- CHAT-PLAYBOOKS.md — specialized chat roles and synchronization protocol
 - COURSE-MAP.md — official course/assessment map and known scope
 - ROADMAP.md — accelerated October 1 to early-December plan
 - PROGRESS.md — live completion/mastery dashboard

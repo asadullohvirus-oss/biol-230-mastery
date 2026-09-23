@@ -323,8 +323,10 @@ Hard dependencies outrank routine pacing.
 02 — Recall & Physiology Problem Lab
 03 — Mistake Clinic & Anki
 04 — Assessments & Exam Simulator
-05 — TME & Lab Operations
+05 — Assignments & Lab Operations
 06 — Today: Study Coach
+
+Detailed chat ownership, setup prompts, and GitHub state-sync rules are defined in CHAT-PLAYBOOKS.md. Specialized chats should read the canonical GitHub state they need rather than asking Asadulloh to manually transfer state between chats.
 
 ## Anti-busywork
 

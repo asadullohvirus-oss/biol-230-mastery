@@ -1,7 +1,7 @@
 # Progress Dashboard
 
 Last updated: 2026-09-22
-Status: PRE-COURSE / COURSE INGESTION
+Status: INFRASTRUCTURE READY / UNIT 1 INGESTION NEXT
 Official start: 2026-10-01
 
 ## Top-line status
@@ -10,11 +10,21 @@ COURSE COMPLETION: 0%
 DEMONSTRATED MASTERY: Not established
 CURRENT PROJECTED GRADE: N/A
 
+## Infrastructure
+
+Canonical GitHub repository: Ready
+Project Instructions: Ready
+Seven-chat architecture/playbooks: Ready
+Course orientation/general assessment structure: Ingested
+AU-custom textbook: Available in Project
+Anki workflow specification: Ready
+Calendar strategy: Defined; individual exam dates not yet scheduled
+
 ## Content
 
 Units completed: 0 / 6
 Chapters completed: 0 / 23
-Required lessons completed: UNKNOWN denominator until Study Guide ingestion
+Required lessons completed: UNKNOWN denominator until Unit 1 Study Guide ingestion
 Adaptive Practice completed: 0 / UNKNOWN
 
 ## Assessments
@@ -46,10 +56,7 @@ AU receipt/status confirmed: No
 ## Critical path
 
 Current blocker:
-Course has not officially started; Study Guide/assignment/lab ingestion is incomplete.
-
-Next major unlock:
-Complete source ingestion, then begin Sprint A on October 1.
+No course-performance blocker yet. Infrastructure is ready; next academic input is Unit 1 Study Guide/material.
 
 Future lab-kit path:
 Assignment 2 completion/submission
@@ -59,7 +66,7 @@ Assignment 2 completion/submission
 → physical labs.
 
 Schedule risk:
-HIGH until actual Assignment 2 marking time and kit-shipping time are known. The official course sequence spreads active work through roughly Week 47, while the admissions target compresses it to about nine weeks.
+HIGH until actual study pace, Assignment 2 marking time, and kit-shipping time are known. The official course sequence spreads active work through roughly Week 47, while the admissions target compresses it to about nine weeks.
 
 ## Workload assumption
 
@@ -68,12 +75,11 @@ This must be recalibrated after the first week using actual study/assignment tim
 
 ## Current objective
 
-Finish infrastructure and ingest authoritative BIOL 230 materials before the October 1 start.
+Finish chat setup and then ingest Unit 1 Study Guide/material. Do not begin physiology teaching until Unit 1 source ingestion is complete and Asadulloh explicitly starts studying.
 
 ## Next priority
 
-1. Study Guide / lesson objectives
-2. Assignment 1–3 instructions
-3. Lab Manual / Lab Assignment instructions
-4. Home Lab Kit request/return details
-5. course contract end date
+1. Create/configure the seven specialized chats using CHAT-PLAYBOOKS.md.
+2. Ingest Unit 1 Study Guide/objectives and required lesson structure.
+3. Build the authoritative Unit 1 objective map.
+4. Begin Unit 1 learning only after the map is ready.
