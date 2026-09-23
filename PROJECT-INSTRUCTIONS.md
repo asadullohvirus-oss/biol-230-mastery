@@ -27,6 +27,15 @@ Use:
 
 Do not invent missing course requirements. Mark unknowns explicitly.
 
+## Official schedule rule
+
+AU's Suggested Study Schedule is a sequencing/dependency reference, not our pacing plan.
+
+It allocates active course work through approximately Week 47. Our admissions-driven plan compresses this to roughly nine weeks while preserving the intended dependency order:
+content → unit quiz → two-unit assignment/exam preparation → next block → labs/final.
+
+Do not blindly mimic the 47-week pace. Do not break course prerequisites merely to move faster.
+
 ## BIOL 230 scope lock
 
 The AU-custom textbook defines the examinable textbook boundary inside assigned Study Guide lessons.
@@ -81,6 +90,8 @@ Exams:
 
 Before the Final, all required course assignments must have been submitted and instructor feedback reviewed.
 
+For planning safety, treat the Lab Assignment as included in this requirement unless authoritative course/instructor guidance states otherwise.
+
 ## Grade target
 
 Operating target: 90%+ projected final grade.
@@ -134,15 +145,18 @@ Prefer asking before telling.
 
 For a normal assigned lesson:
 1. inspect Study Guide overview/objectives,
-2. identify the matching AU-custom textbook scope,
-3. first-pass reading,
-4. closed-book objective retrieval,
-5. targeted rereading only for gaps,
+2. inspect matching AU-custom textbook objectives and scope,
+3. first-pass reading for structure/meaning,
+4. stop and retrieve the main points in Asadulloh's own words,
+5. targeted rereading only for failed retrieval or unclear terminology,
 6. mechanism/prediction practice,
 7. WileyPLUS/Adaptive Practice,
 8. analyze misses,
-9. selective Anki,
-10. update mastery evidence when warranted.
+9. verify lesson objectives and key terms can be recalled and used in context,
+10. selective Anki,
+11. update mastery evidence when warranted.
+
+AU recommends at least two readings. Preserve the purpose of that recommendation without forcing redundant passive rereading: the second pass should be targeted and active whenever possible.
 
 Avoid extensive passive note rewriting.
 
@@ -202,12 +216,19 @@ Review relevant assignment questions as each chapter is completed so conceptual 
 
 ## Lab critical path
 
-The Home Lab Kit is shipped only after Assignment 2 has been completed AND a mark for Assignment 2 has been received.
+The official Suggested Study Schedule places the Home Lab Kit request in the same period as Assignment 2 completion. Detailed lab instructions state that shipment occurs only after Assignment 2 has been completed and a mark has been received.
+
+Therefore:
+- complete and submit Assignment 2 as early as strong work permits,
+- submit the Home Lab Kit request immediately after Assignment 2 if the portal permits,
+- otherwise submit it as soon as the portal unlocks,
+- treat the Assignment 2 mark as the shipment gate.
 
 Track:
 - Assignment 2 submitted,
-- Assignment 2 marked,
 - Home Lab Kit requested,
+- Assignment 2 marked,
+- shipment eligibility unlocked,
 - shipped,
 - received,
 - six home labs complete,
@@ -286,9 +307,12 @@ Use:
 - mistakes,
 - due Anki,
 - upcoming graded assessments,
-- grade trajectory.
+- grade trajectory,
+- actual weekly study hours versus the accelerated capacity target.
 
-Default to approximately 3 focused hours if no duration is provided.
+If no duration is provided, default to approximately 4 focused hours on a study day.
+
+Initial weekly capacity target: approximately 30–40 focused hours/week, recalibrated after Week 1 from real chapter/assignment timing.
 
 Hard dependencies outrank routine pacing.
 
@@ -304,6 +328,6 @@ Hard dependencies outrank routine pacing.
 
 ## Anti-busywork
 
-Do not allow note beautification, excessive summarization, flashcard volume, GitHub maintenance, or tool tinkering to displace retrieval, reasoning, graded work, and labs.
+Do not allow note beautification, excessive summarization, flashcard volume, GitHub maintenance, or tool tinkering to displace retrieval, reasoning, graded work, labs, or adequate sleep.
 
 When in doubt, test understanding.

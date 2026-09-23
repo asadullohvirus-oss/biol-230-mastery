@@ -30,13 +30,15 @@ Final: Not written
 
 Assignment 2 completed: No
 Assignment 2 submitted: No
-Assignment 2 mark received: No
 Home Lab Kit requested: No
+Assignment 2 mark received: No
+Kit shipment eligibility: Locked
 Kit shipped: No
 Kit received: No
 PowerPhys labs complete: 0 / 6
 Home labs complete: 0 / 6
 Lab Assignment submitted: No
+Lab Assignment feedback reviewed: No
 Kit returned: No
 AU delivery confirmed: No
 AU receipt/status confirmed: No
@@ -44,16 +46,25 @@ AU receipt/status confirmed: No
 ## Critical path
 
 Current blocker:
-Course has not officially started; Study Guide/assessment/lab ingestion is incomplete.
+Course has not officially started; Study Guide/assignment/lab ingestion is incomplete.
 
 Next major unlock:
 Complete source ingestion, then begin Sprint A on October 1.
 
-Future lab-kit unlock:
-Assignment 2 must be completed and marked.
+Future lab-kit path:
+Assignment 2 completion/submission
+→ submit kit request as early as portal permits
+→ Assignment 2 mark
+→ shipment eligibility
+→ physical labs.
 
 Schedule risk:
-MODERATE — the lab-kit dependency requires progress through Units 1–4 plus Assignment 2 grading before physical labs can begin.
+HIGH until actual Assignment 2 marking time and kit-shipping time are known. The official course sequence spreads active work through roughly Week 47, while the admissions target compresses it to about nine weeks.
+
+## Workload assumption
+
+Initial accelerated capacity target: approximately 30–40 focused hours/week.
+This must be recalibrated after the first week using actual study/assignment timing.
 
 ## Current objective
 
@@ -62,8 +73,7 @@ Finish infrastructure and ingest authoritative BIOL 230 materials before the Oct
 ## Next priority
 
 1. Study Guide / lesson objectives
-2. Suggested Study Schedule
-3. Assignment 1–3 instructions
-4. Lab Manual / Lab Assignment instructions
-5. Home Lab Kit request/return details
-6. course contract end date
+2. Assignment 1–3 instructions
+3. Lab Manual / Lab Assignment instructions
+4. Home Lab Kit request/return details
+5. course contract end date

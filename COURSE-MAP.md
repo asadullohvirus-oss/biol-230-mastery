@@ -14,6 +14,18 @@ Last updated: 2026-09-22
 - Quiz/exam questions do not include images or diagrams.
 - WileyPLUS/Adaptive Practice may contain out-of-scope content; ignore it when excluded by the AU-custom PDF.
 
+## Recommended AU lesson process
+
+For each lesson AU recommends:
+- consult the Study Guide overview/objectives,
+- read the matching AU-custom textbook objectives,
+- read assigned customized-textbook material,
+- use active rereading/notes rather than passive reading,
+- practice extensively with WileyPLUS,
+- ensure every objective and key term can be defined and used in context.
+
+Our system preserves those goals while replacing redundant passive rereading with closed-book retrieval and targeted second passes.
+
 ## Unit and chapter map
 
 ### Unit 1
@@ -108,6 +120,19 @@ Quiz supplemental rule:
 Exam supplemental rule:
 - one supplemental may be requested for a failed exam or an unsatisfactory passed exam, subject to AU rules and request deadlines.
 
+## Official suggested sequence
+
+The AU orientation sequences work approximately as follows:
+
+- Unit 1 → Quiz 1
+- Unit 2 → Quiz 2 → Assignment 1 → Midterm 1
+- Unit 3 → Quiz 3
+- Unit 4 → Quiz 4 → Assignment 2 → Home Lab Kit request → Midterm 2
+- Unit 5 → Quiz 5
+- Unit 6 → Quiz 6 → Assignment 3 → Lab Assignment/kit return → Final
+
+This ordering is now treated as authoritative sequencing guidance. Our accelerated roadmap changes timing, not dependencies.
+
 ## Lab architecture
 
 Part 1:
@@ -119,7 +144,8 @@ Part 2:
 - obtain results, record data, and answer activity-specific questions.
 
 Home Lab Kit:
-- shipment occurs after Assignment 2 is completed and a mark has been received,
+- AU's suggested schedule places the request alongside Assignment 2 completion,
+- detailed instructions state shipment occurs only after Assignment 2 is completed and a mark has been received,
 - kit must be returned after lab work,
 - transcript distribution is blocked until kit return.
 
@@ -136,12 +162,13 @@ Before writing the Final:
 - required course assignments submitted,
 - instructor feedback reviewed.
 
+For planning safety, treat the Lab Assignment as included in this requirement until clarified otherwise.
+
 ## Unknowns still to ingest
 
 - exact Study Guide lesson assignments/objectives,
 - actual Assignment 1–3 questions/rubrics,
 - exact Lab Manual activities and chapter dependencies,
-- Suggested Study Schedule,
 - assignment marking turnaround,
 - current Home Lab Kit shipping turnaround,
 - exact kit-return/receipt confirmation workflow,

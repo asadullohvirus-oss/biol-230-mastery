@@ -25,6 +25,13 @@ myAU:
 
 All three exams require advance booking/request.
 
+AU's suggested schedule requests each exam well before the intended writing window:
+- Midterm 1 request around completion of Unit 2,
+- Midterm 2 request around completion of Unit 4,
+- Final request well before completion of Assignment 3/labs.
+
+Our accelerated plan should request exams as early as official rules and readiness planning allow.
+
 ### Midterm 1
 Coverage: Units 1–2 / Chapters 1–8
 Academic readiness: Not ready
@@ -56,6 +63,9 @@ Final eligibility requirement:
 - all required course assignments submitted,
 - instructor feedback reviewed.
 
+Planning safeguard:
+Treat the Lab Assignment as included in "required course assignments" until an authoritative course/instructor clarification says otherwise.
+
 Internal planning rule:
 Aim to trigger booking/request work approximately 14 days before the desired writing date, then replace with the exact official requirement once confirmed for this registration.
 
@@ -65,14 +75,16 @@ Aim to trigger booking/request work approximately 14 days before the desired wri
 [ ] Assignment 2 final review complete
 [ ] Assignment 2 submitted
 Submission date:
-[ ] Assignment 2 mark received
-Mark date:
-Score:
 
 [ ] Home Lab Kit request submitted
 Request date:
 Confirmation/reference:
 
+[ ] Assignment 2 mark received
+Mark date:
+Score:
+
+[ ] Kit shipment eligibility unlocked
 [ ] Kit shipment confirmed
 Ship date:
 Tracking:
@@ -86,6 +98,8 @@ Return deadline:
 [ ] Lab Assignment complete
 [ ] Lab Assignment submitted
 Submission date:
+[ ] Lab Assignment mark received
+[ ] Lab Assignment feedback reviewed
 [ ] Lab Assignment passed
 
 [ ] Kit packed
@@ -102,18 +116,34 @@ Confirmation date:
 [ ] Transcript release no longer blocked by kit
 
 Important:
-The kit is shipped after Assignment 2 is completed and a mark has been received.
-Transcripts are not distributed until the Home Lab Kit has been returned.
+- The official suggested schedule places the Home Lab Kit request in the same period as Assignment 2 completion.
+- Detailed lab instructions state that the kit is shipped only after Assignment 2 has been completed and a mark has been received.
+- Therefore, submit the kit request immediately after Assignment 2 if the portal permits; do not wait for the mark unless the portal requires it.
+- Assignment 2 mark remains the shipment gate.
+- Transcripts are not distributed until the Home Lab Kit has been returned.
 
 ## Assignment workflow
 
 For Assignments 1–3:
-- inspect relevant questions while progressing through chapters,
-- build conceptual preparation incrementally,
+- inspect relevant assignment questions after each chapter,
+- answer/outline chapter-relevant parts incrementally,
 - write original answers,
 - submit .docx through the correct Brightspace assignment page,
 - save submission confirmation,
 - review instructor feedback when marked.
+
+AU's official schedule deliberately places each written assignment after the corresponding two-unit block. Our accelerated plan preserves the content dependency but moves preparation earlier by working incrementally.
+
+## Lesson-level workflow
+
+For each lesson:
+1. inspect Study Guide overview/objectives,
+2. inspect AU-custom textbook objectives,
+3. read assigned customized-textbook scope,
+4. retrieve main points without looking,
+5. targeted reread for gaps,
+6. practice in WileyPLUS/Adaptive Practice,
+7. verify every lesson objective and key term can be recalled and used in context.
 
 ## Quiz feedback workflow
 
@@ -129,7 +159,7 @@ On feedback receipt:
 ## Transcript path
 
 Course requirements complete
-→ required grading complete
+→ required grading/feedback complete
 → Home Lab Kit returned
 → AU kit receipt/status confirmed
 → final grade processed
@@ -140,6 +170,7 @@ Course requirements complete
 ## Open operational questions
 
 - exact Assignment 1–3 marking turnaround,
+- whether the kit-request portal permits request immediately after Assignment 2 submission or only after marking,
 - exact current lab-kit shipping turnaround,
 - exact return procedure/label/tracking requirements,
 - how AU confirms kit receipt internally,
