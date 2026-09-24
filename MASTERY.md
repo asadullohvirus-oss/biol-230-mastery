@@ -30,12 +30,16 @@ Mastery is based on demonstrated closed-book performance, not reading completion
 |---|---|---:|---|
 | U1-C1-L1-O1 | Define physiology | 3 | 2026-09-23: independently defined physiology, distinguished physiology from anatomy, and explained structure–function relation with a lung example |
 | U1-C1-L2-O1 | Describe levels of organization | 3 | 2026-09-23: independently recalled six levels in order, described the hierarchy, and identified organ level correctly from Figure 1.1 concept |
-| U1-C1-L2-O2 | Explain functions of the twelve body systems | 2 | 2026-09-23: retrieved functions with prompting/targeted rereading; reproductive-system function corrected after repeated mitosis confusion; spaced retest required |
-| U1-C1-L3-O1 | Identify important life processes | 2 | 2026-09-23: recalled all six after prompting and explained most correctly; responsiveness and movement remained incomplete after targeted reread |
+| U1-C1-L2-O2 | Explain functions of the twelve body systems | 2 | 2026-09-23: prompted retrieval; 2026-09-24 closed-book test: recalled nervous system but could not enumerate systems or their functions independently. Level 2 remains historical prompted performance; independent mastery not demonstrated. Targeted retest required |
+| U1-C1-L3-O1 | Identify important life processes | 2 | 2026-09-23: recalled all six after prompting; 2026-09-24 closed-book test: unable to retrieve the six. Level 2 remains historical prompted performance; independent mastery not demonstrated. Targeted retest required |
 | U1-C1-L4-O1 | Define homeostasis | 3 | 2026-09-24: independently described dynamic regulation of blood pressure within a range |
 | U1-C1-L4-O2 | Distinguish internal vs external environment | 2 | 2026-09-24: identified interstitial fluid and plasma as internal environment after prompting; external environment described as outside body |
 | U1-C1-L4-O3 | Describe feedback-system components | 2 | 2026-09-24: identified receptor, control center and effector through prompted shivering example; unprompted retest needed |
 | U1-C1-L4-O4 | Contrast negative vs positive feedback | 2 | 2026-09-24: identified negative feedback as reversing change, childbirth as positive feedback, and delivery ending cervical stretch; prompted on oxytocin cessation |
+
+### Chapter 1 closed-book checkpoint — 2026-09-24
+
+Partial submission; do not calculate an eight-objective score. Q1 physiology and structure-function relationship: acceptable independent recall (level 3 retained). Q2 six levels and organ definition: acceptable independent recall (level 3 retained); tissue definition not explicitly supplied. Q3 twelve systems/functions: major independent-retrieval gap, assess after targeted study. Q4 six life processes: major independent-retrieval gap, assess after targeted study. Q5 homeostasis: declined repeat; prior level 3 retained, not retested. Q6 internal vs external environment: student requested more practice; previous level 2 retained, not retested. Q7 feedback components and Q8 feedback comparison: declined/claimed familiar; prior levels 2 retained, not retested. No unsupported mastery upgrades or downgrades from unanswered items. Future Chapter 1 practice: 12 systems, life processes, fluid compartments; then short novel feedback transfer question only if needed. Avoid repetitive homeostasis-definition or familiar childbirth prompts.
 
 ## Unit 1 — Chapter 2
 
