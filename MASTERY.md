@@ -17,7 +17,7 @@ Mastery is based on demonstrated closed-book performance, not reading completion
 
 | Unit | Chapters | Current mastery | Evidence |
 |---|---|---:|---|
-| Unit 1 | 1–4 | 0.3 | Lessons 1–3 verified; Lesson 4 homeostasis at mastery 3 and internal/external environment distinction at mastery 2; feedback objectives pending |
+| Unit 1 | 1–4 | 0.4 | All 8 Chapter 1 objectives checked: 3 at level 3 and 5 at level 2; chapter practice remains pending |
 | Unit 2 | 5–8 | 0 | Not studied |
 | Unit 3 | 9–12 | 0 | Not studied |
 | Unit 4 | 13–15 | 0 | Not studied |
@@ -34,8 +34,8 @@ Mastery is based on demonstrated closed-book performance, not reading completion
 | U1-C1-L3-O1 | Identify important life processes | 2 | 2026-09-23: recalled all six after prompting and explained most correctly; responsiveness and movement remained incomplete after targeted reread |
 | U1-C1-L4-O1 | Define homeostasis | 3 | 2026-09-24: independently described dynamic regulation of blood pressure within a range |
 | U1-C1-L4-O2 | Distinguish internal vs external environment | 2 | 2026-09-24: identified interstitial fluid and plasma as internal environment after prompting; external environment described as outside body |
-| U1-C1-L4-O3 | Describe feedback-system components | 0 | Not verified |
-| U1-C1-L4-O4 | Contrast negative vs positive feedback | 0 | Not verified |
+| U1-C1-L4-O3 | Describe feedback-system components | 2 | 2026-09-24: identified receptor, control center and effector through prompted shivering example; unprompted retest needed |
+| U1-C1-L4-O4 | Contrast negative vs positive feedback | 2 | 2026-09-24: identified negative feedback as reversing change, childbirth as positive feedback, and delivery ending cervical stretch; prompted on oxytocin cessation |
 
 ## Unit 1 — Chapter 2
 
