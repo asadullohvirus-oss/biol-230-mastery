@@ -17,7 +17,7 @@ Mastery is based on demonstrated closed-book performance, not reading completion
 
 | Unit | Chapters | Current mastery | Evidence |
 |---|---|---:|---|
-| Unit 1 | 1–4 | 0.3 | Lessons 1–3 verified; Lesson 4 homeostasis definition at mastery 3; remaining objectives pending |
+| Unit 1 | 1–4 | 0.3 | Lessons 1–3 verified; Lesson 4 homeostasis at mastery 3 and internal/external environment distinction at mastery 2; feedback objectives pending |
 | Unit 2 | 5–8 | 0 | Not studied |
 | Unit 3 | 9–12 | 0 | Not studied |
 | Unit 4 | 13–15 | 0 | Not studied |
@@ -33,7 +33,7 @@ Mastery is based on demonstrated closed-book performance, not reading completion
 | U1-C1-L2-O2 | Explain functions of the twelve body systems | 2 | 2026-09-23: retrieved functions with prompting/targeted rereading; reproductive-system function corrected after repeated mitosis confusion; spaced retest required |
 | U1-C1-L3-O1 | Identify important life processes | 2 | 2026-09-23: recalled all six after prompting and explained most correctly; responsiveness and movement remained incomplete after targeted reread |
 | U1-C1-L4-O1 | Define homeostasis | 3 | 2026-09-24: independently described dynamic regulation of blood pressure within a range |
-| U1-C1-L4-O2 | Distinguish internal vs external environment | 0 | Not verified |
+| U1-C1-L4-O2 | Distinguish internal vs external environment | 2 | 2026-09-24: identified interstitial fluid and plasma as internal environment after prompting; external environment described as outside body |
 | U1-C1-L4-O3 | Describe feedback-system components | 0 | Not verified |
 | U1-C1-L4-O4 | Contrast negative vs positive feedback | 0 | Not verified |
 
