@@ -33,9 +33,9 @@ Unit 1 source ingestion: COMPLETE
 
 Unit 1:
 - assigned lessons: 25
-- official objectives mapped: 47
+- official objectives mapped: 48
 - lessons completed: 0 / 25
-- objectives at mastery ≥3: 0 / 47
+- objectives at mastery ≥3: 0 / 48
 - Adaptive Practice completed: 0 / 4 chapters
 
 ## Assessments

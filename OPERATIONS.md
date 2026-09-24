@@ -176,3 +176,15 @@ Course requirements complete
 - how AU confirms kit receipt internally,
 - exact course contract end date,
 - exact student-specific exam booking availability.
+
+
+## Google Calendar operational markers (provisional)
+
+Created Sep 24, 2026 on primary calendar; they are personal targets, not AU-assigned dates and not evidence of proctor reservations:
+- Oct 7 Midterm 1 booking trigger; Oct 22 conditional exam target.
+- Oct 23 Midterm 2 booking trigger; Nov 6 conditional exam target.
+- Nov 4 Assignment 2 submit target; Nov 5 kit-request/mark tracking; Nov 13 shipment escalation if unresolved.
+- Nov 17 final booking trigger; Nov 27 stretch lab submission and tracked kit return; Nov 30 feedback/eligibility check; Dec 2 conditional Final target.
+- Dec 9 and Dec 16 AU kit receipt/transcript processing follow-ups; Jan 5 admissions-buffer escalation.
+
+**Calendar dates must be moved when actual work, grading, shipping, instructor feedback or exam bookings change.** The Final must not be attempted before the official pre-final conditions are met. The calendar also includes externally verified MPAS deadlines and earlier internal submission targets.

@@ -165,3 +165,24 @@ Reforecast immediately when:
 - an exam is booked,
 - weekly mastery falls below plan,
 - weekly workload proves materially above/below assumption.
+
+
+## Google Calendar plan (added 2026-09-24)
+
+The primary Google Calendar now contains 23 chapter start targets, unit-level quiz targets, all three assignment submission targets, exam booking reminders, conditional exam targets, PowerPhys/home-lab placeholders, kit tracking, recurring focused study/retrieval and weekly review, and MPAS deadlines.
+
+These are **provisional internal targets, not booked exams or official AU due dates**. Actual pacing and the lab critical path override the initial dates. Google Calendar entries must be updated following each weekly reforecast rather than blindly followed.
+
+Current provisional targets:
+- Unit 1 Ch1–4 Oct 1–11; Quiz 1 Oct 12
+- Unit 2 Ch5–8 Oct 13–19; Quiz 2 Oct 20; A1 Oct 21; Midterm 1 Oct 22 (unbooked)
+- Unit 3 Ch9–12 Oct 23–27; Quiz 3 Oct 28
+- Unit 4 Ch13–15 Oct 29–Nov 2; Quiz 4 Nov 3; **A2 Nov 4**; Midterm 2 Nov 6 (unbooked)
+- Unit 5 Ch16–19 Nov 5–10; Quiz 5 Nov 11
+- Unit 6 Ch20–23 Nov 13–18; Quiz 6 Nov 19; A3 Nov 20
+- PowerPhys scheduled flexibly Nov 8–17, home-lab placeholders Nov 20–25 **only if kit arrives**; Lab Assignment + kit return Nov 27 **stretch target only**
+- Final readiness/eligibility Nov 30; Final Dec 2 **conditional and NOT booked**; Dec 5 contingency
+
+**HIGH RISK:** Shipment waits for A2's mark. The Dec 2 final date is contingent on any required Lab Assignment feedback already being received/reviewed. The Lab Manual and exact AU marking/shipping turnaround are not yet ingested; do not assume the calendar proves the early-December plan is feasible. Escalate and reforecast immediately when real turnaround becomes known.
+
+A baseline of 30 focused hours per week is represented by movable calendar holds: 4h Mon–Sat plus 2h Tue/Thu/Sat. Weekly cumulative assessment and Master review are separate Sunday sessions. These blocks are preferences, not obligations to study at a specific time if they clash with other commitments.
