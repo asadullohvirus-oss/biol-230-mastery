@@ -48,16 +48,16 @@ Resolution evidence:
 ### M001 — Reproductive-system function confused with mitosis
 Unit: 1
 Chapter/objective: Chapter 1, Lesson 2 — U1-C1-L2-O2
-Status: CONFIRMED
+Status: IMPROVING
 Priority: Medium
 Root cause: incorrect mechanism / terminology confusion
 Typical error: States that mitosis is a defining function of the reproductive system.
 Correct model: The reproductive system produces gametes, releases hormones that regulate reproduction and other body processes, and associated organs transport and store gametes.
-Evidence/occurrences: Repeated twice during closed-book Lesson 2 retrieval on 2026-09-23.
+Evidence/occurrences: Repeated twice during closed-book Lesson 2 retrieval on 2026-09-23; after targeted correction, independently retrieved the correct system-level function.
 First observed: 2026-09-23
 Last observed: 2026-09-23
 Remediation: Contrast the system-level function with unrelated cell-division terminology; retrieve the reproductive-system function without prompts.
-Retest strategy: Ask for the reproductive-system function again later in Lesson 2 and in a spaced mixed-system review.
+Retest strategy: Hidden spaced retest in later Chapter 1 mixed-system review.
 Anki needed: No — retest first.
 Anki card ID:
-Resolution evidence:
+Resolution evidence: One correct immediate retrieval after remediation on 2026-09-23; not yet spaced, so not resolved.
