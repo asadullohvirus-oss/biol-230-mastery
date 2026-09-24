@@ -17,7 +17,7 @@ Mastery is based on demonstrated closed-book performance, not reading completion
 
 | Unit | Chapters | Current mastery | Evidence |
 |---|---|---:|---|
-| Unit 1 | 1–4 | 0.2 | Lesson 1 verified; Lesson 2 levels objective at mastery 3 and systems-function objective at mastery 2; remaining Unit 1 objectives not yet verified |
+| Unit 1 | 1–4 | 0.2 | Lessons 1–3 verified; Lesson 3 life-process objective at mastery 2; Lesson 4 and remaining Unit 1 objectives not yet verified |
 | Unit 2 | 5–8 | 0 | Not studied |
 | Unit 3 | 9–12 | 0 | Not studied |
 | Unit 4 | 13–15 | 0 | Not studied |
@@ -31,7 +31,7 @@ Mastery is based on demonstrated closed-book performance, not reading completion
 | U1-C1-L1-O1 | Define physiology | 3 | 2026-09-23: independently defined physiology, distinguished physiology from anatomy, and explained structure–function relation with a lung example |
 | U1-C1-L2-O1 | Describe levels of organization | 3 | 2026-09-23: independently recalled six levels in order, described the hierarchy, and identified organ level correctly from Figure 1.1 concept |
 | U1-C1-L2-O2 | Explain functions of the twelve body systems | 2 | 2026-09-23: retrieved functions with prompting/targeted rereading; reproductive-system function corrected after repeated mitosis confusion; spaced retest required |
-| U1-C1-L3-O1 | Identify important life processes | 0 | Not verified |
+| U1-C1-L3-O1 | Identify important life processes | 2 | 2026-09-23: recalled all six after prompting and explained most correctly; responsiveness and movement remained incomplete after targeted reread |
 | U1-C1-L4-O1 | Define homeostasis | 0 | Not verified |
 | U1-C1-L4-O2 | Distinguish internal vs external environment | 0 | Not verified |
 | U1-C1-L4-O3 | Describe feedback-system components | 0 | Not verified |
