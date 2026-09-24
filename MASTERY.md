@@ -1,7 +1,7 @@
 # Mastery Matrix
 
-Last updated: 2026-09-22
-Status: UNIT 1 OBJECTIVE MAP COMPLETE
+Last updated: 2026-09-23
+Status: UNIT 1 LEARNING IN PROGRESS
 
 ## Scale
 
@@ -17,7 +17,7 @@ Mastery is based on demonstrated closed-book performance, not reading completion
 
 | Unit | Chapters | Current mastery | Evidence |
 |---|---|---:|---|
-| Unit 1 | 1–4 | 0 | 47 official objectives mapped; learning not started |
+| Unit 1 | 1–4 | 0.1 | Lesson 1 objective verified at mastery 3; remaining Unit 1 objectives not yet studied |
 | Unit 2 | 5–8 | 0 | Not studied |
 | Unit 3 | 9–12 | 0 | Not studied |
 | Unit 4 | 13–15 | 0 | Not studied |
@@ -28,7 +28,7 @@ Mastery is based on demonstrated closed-book performance, not reading completion
 
 | ID | Objective | Mastery | Evidence |
 |---|---|---:|---|
-| U1-C1-L1-O1 | Define physiology | 0 | Not studied |
+| U1-C1-L1-O1 | Define physiology | 3 | 2026-09-23: independently defined physiology, distinguished physiology from anatomy, and explained structure–function relation with a lung example |
 | U1-C1-L2-O1 | Describe levels of organization | 0 | Not studied |
 | U1-C1-L2-O2 | Explain functions of the twelve body systems | 0 | Not studied |
 | U1-C1-L3-O1 | Identify important life processes | 0 | Not studied |
