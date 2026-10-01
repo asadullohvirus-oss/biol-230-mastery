@@ -58,8 +58,8 @@ First observed: 2026-09-23
 Last observed: 2026-09-23
 Remediation: Contrast the system-level function with unrelated cell-division terminology; retrieve the reproductive-system function without prompts.
 Retest strategy: Hidden spaced retest in later Chapter 1 mixed-system review.
-Anki needed: No — retest first.
-Anki card ID:
+Anki needed: Yes — one targeted contrast card requested after repeated historical confusion; spaced retest still required.
+Anki card ID: batch02, tag m001, prompt "Why is mitosis not the defining function of the reproductive system?"
 Resolution evidence: One correct immediate retrieval after remediation on 2026-09-23; not yet spaced, so not resolved.
 
 ### M002 — ECF compartment and nutrient-pathway confusion
@@ -75,6 +75,6 @@ First observed: 2026-10-01
 Last observed: 2026-10-01
 Remediation: Reconstruct compartment locations and draw/retrieve nutrient route from memory; distinguish ICF from ECF.
 Retest strategy: After learning, ask short unfamiliar exchange scenario without diagram/hints and have student name each compartment in order.
-Anki needed: Not yet — assess retention after targeted remediation.
-Anki card ID:
+Anki needed: Yes — three distinct cards for ECF meaning, compartment locations, and nutrient route after weak independent retrieval; cards do not replace retesting.
+Anki card ID: batch01, tag m002, prompts on ECF internal environment, ECF compartments, and nutrient route
 Resolution evidence:
