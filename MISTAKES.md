@@ -1,6 +1,6 @@
 # Mistake Ledger
 
-Last updated: 2026-09-23
+Last updated: 2026-10-01
 Status: ACTIVE
 
 Track meaningful conceptual errors only.
@@ -61,3 +61,20 @@ Retest strategy: Hidden spaced retest in later Chapter 1 mixed-system review.
 Anki needed: No — retest first.
 Anki card ID:
 Resolution evidence: One correct immediate retrieval after remediation on 2026-09-23; not yet spaced, so not resolved.
+
+### M002 — ECF compartment and nutrient-pathway confusion
+Unit: 1
+Chapter/objective: Chapter 1, Lesson 4 — U1-C1-L4-O2
+Status: NEW
+Priority: High
+Root cause: terminology confusion / incomplete chain
+Typical error: Identifies ECF correctly and plasma as one compartment, but names generic 'water' instead of interstitial fluid and cannot trace an absorbed nutrient from plasma through interstitial fluid into the cell.
+Correct model: ECF is internal environment; its components are plasma (fluid part of blood) and interstitial fluid (between cells). Absorbed nutrient route: digestive tract → plasma → interstitial fluid → muscle cell (intracellular fluid).
+Evidence/occurrences: 2026-10-01 closed-book Chapter 1 targeted retest Q3; earlier 2026-09-24 compartment identification required prompting.
+First observed: 2026-10-01
+Last observed: 2026-10-01
+Remediation: Reconstruct compartment locations and draw/retrieve nutrient route from memory; distinguish ICF from ECF.
+Retest strategy: After learning, ask short unfamiliar exchange scenario without diagram/hints and have student name each compartment in order.
+Anki needed: Not yet — assess retention after targeted remediation.
+Anki card ID:
+Resolution evidence:
