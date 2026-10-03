@@ -78,3 +78,17 @@ Retest strategy: After learning, ask short unfamiliar exchange scenario without 
 Anki needed: Yes — three distinct cards for ECF meaning, compartment locations, and nutrient route after weak independent retrieval; cards do not replace retesting.
 Anki card ID: batch01, tag m002, prompts on ECF internal environment, ECF compartments, and nutrient route
 Resolution evidence:
+
+### M003 — Ion versus free-radical distinction
+Unit: 1
+Chapter/objective: Ch. 2 L1, U1-C2-L1-O2
+Status: IMPROVING
+Priority: Medium
+Root cause: terminology confusion
+Typical error: Defined a free radical by electron gain/loss rather than an unpaired outer-shell electron.
+Correct model: Ion = net charge; free radical = unpaired outer-shell electron. These properties are independent.
+Evidence: Repeated error followed by correct prompted retrieval on 2026-10-03.
+Remediation: Charge-versus-pairing comparison.
+Retest: Spaced classification of novel ion/free-radical examples with explanation.
+Anki needed: Yes; pending.tsv batch03 m003.
+Resolution evidence: Immediate retrieval correct; spaced retest outstanding.
