@@ -49,7 +49,7 @@ Completed 3 areas, one question at a time, closed book. Twelve systems: identifi
 
 | ID | Objective | Mastery | Evidence |
 |---|---|---:|---|
-| U1-C2-L1-O1 | Identify main chemical elements of the body | 0 | Not studied |
+| U1-C2-L1-O1 | Identify main chemical elements of the body | 3 | 2026-10-03: Independently identified oxygen, carbon, hydrogen and nitrogen as major elements |
 | U1-C2-L1-O2 | Describe atoms, ions, molecules, free radicals, compounds | 0 | Not studied |
 | U1-C2-L2-O1 | Explain significance of valence electrons | 0 | Not studied |
 | U1-C2-L2-O2 | Distinguish types of chemical bonds | 0 | Not studied |
