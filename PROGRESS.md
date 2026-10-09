@@ -1,88 +1,93 @@
 # Progress Dashboard
 
-Last updated: 2026-09-22
-Status: UNIT 1 READY TO STUDY
+Last reconciled: 2026-10-08
+Status: UNIT 1 IN PROGRESS — BEHIND PROVISIONAL ACCELERATED CALENDAR
 Official start: 2026-10-01
+
+## Evidence boundary
+
+This dashboard reflects activity recorded in GitHub through the latest study commits. If work was completed outside the BIOL 230 system after the last recorded Chapter 2 session, reconcile that work before changing the roadmap.
 
 ## Top-line status
 
-COURSE COMPLETION: 0%
-DEMONSTRATED MASTERY: Unit 1 = 0/4
+COURSE COMPLETION: no graded assessments completed yet
+DEMONSTRATED MASTERY: Unit 1 in progress
 CURRENT PROJECTED GRADE: N/A
 
-## Infrastructure
-
-Canonical GitHub repository: Ready
-Project Instructions: Ready
-Seven-chat architecture/playbooks: Ready
-Course orientation/general assessment structure: Ingested
-AU-custom textbook: Available
-Anki workflow specification: Ready
-Calendar strategy: Defined; individual exam dates not yet scheduled
-
-## Content
-
-Units completed: 0 / 6
-Chapters completed: 0 / 23
+## Unit 1 recorded progress
 
 Unit 1 source ingestion: COMPLETE
-- Chapter 1: complete
-- Chapter 2: complete
-- Chapter 3: complete
-- Chapter 4: complete
+Assigned lessons: 25
+Official objectives: 48
 
-Unit 1:
-- assigned lessons: 25
-- official objectives mapped: 48
-- lessons completed: 0 / 25
-- objectives at mastery ≥3: 0 / 48
-- Adaptive Practice completed: 0 / 4 chapters
+Recorded lesson coverage:
+- Chapter 1: 4/4 lessons objective-checked; chapter review/WileyPLUS/Adaptive Practice not fully confirmed
+- Chapter 2: Lessons 1–3 studied/retrieved; Lessons 4–5 not recorded
+- Chapter 3: not started
+- Chapter 4: not started
+
+Recorded lesson exposure: approximately 7/25 (28%)
+Recorded objective exposure: 14/48 (29%)
+Objectives with mastery >=3: 5/48 (10%)
+Objectives at level 2 among studied material: 9/48
+Remaining unstudied objectives: 34/48
+
+Active weak areas:
+- twelve body systems/functions retrieval
+- six life processes retrieval
+- ECF compartments and nutrient route
+- ion vs free-radical distinction
+- several Chapter 2 bond/reaction details needing independent spaced retest
+
+## Variance versus accelerated calendar
+
+Original provisional calendar expected:
+- Chapter 1 complete Oct 1–2
+- Chapter 2 complete Oct 3–4
+- Chapter 3 complete Oct 5–7
+- Chapter 4 begin Oct 8
+- Unit 1 readiness simulation Oct 11
+- Quiz 1 provisional graded attempt Oct 12
+
+As of the recorded state on Oct 8 evening, the system is still in Chapter 2 Lesson 3. This is roughly 10 assigned lessons / 18 objectives behind the planned coverage point, equivalent to about 4–5 calendar days on the aggressive schedule.
+
+The Oct 12 Quiz 1 target is not considered credible unless substantial unrecorded work exists. Do not take the real quiz merely to preserve a calendar date.
 
 ## Assessments
 
 Quiz 1 readiness: Not established
-Quizzes passed: 0 / 6
-Assignments submitted: 0 / 3
+Quizzes passed: 0/6
+Assignments submitted: 0/3
 Lab Assignment: Not started
 Midterm 1: Not written
-Midterm 2: Not written
-Final: Not written
+
+## Operations
+
+Midterm 1 provisional booking trigger was Oct 7.
+Current GitHub operations state: exam requested = No.
+Exact AU booking requirements and student-specific availability remain to be confirmed.
+
+Assignment 1 is intended to be worked incrementally during Units 1–2; no completed A1 milestone is recorded.
 
 ## Lab critical path
 
-Assignment 2 completed: No
-Assignment 2 submitted: No
-Home Lab Kit requested: No
-Assignment 2 mark received: No
-Kit shipment eligibility: Locked
-Kit shipped: No
-Kit received: No
-PowerPhys labs complete: 0 / 6
-Home labs complete: 0 / 6
-Lab Assignment submitted: No
-Lab Assignment feedback reviewed: No
-Kit returned: No
-AU delivery confirmed: No
-AU receipt/status confirmed: No
+No immediate lab-kit action is due yet.
+The critical future dependency remains:
+Assignment 2 submission/request eligibility -> Assignment 2 mark -> kit shipment -> home labs -> Lab Assignment -> kit return -> AU receipt -> transcript unblocked.
 
-## Critical path
+Any multi-day delay in Units 1–2 reduces buffer before the Assignment 2 / lab-kit critical path.
 
-Current academic action:
-Begin Unit 1 learning in Chat 01 using Chapter 1, Lesson 1.
+## Workload comparison
 
-No graded Quiz 1 attempt should occur until Unit 1 coverage is complete and practice demonstrates approximately 90%+ readiness.
+Calendar baseline: approximately 30 focused hours/week plus weekly assessment/reforecast.
+From Oct 1 through Oct 8 evening, approximately 38 hours of study/review blocks were reserved on the calendar.
+Actual focused hours are not recorded reliably enough to compare; begin logging them now.
 
-Schedule risk:
-HIGH until actual Week 1 study pace, Assignment 2 marking time, and kit-shipping time are known.
+## Immediate priority
 
-## Workload assumption
-
-Initial accelerated capacity target: approximately 30–40 focused hours/week.
-Recalibrate after the first week using actual study/assignment timing.
-
-## Next priority
-
-1. Start Unit 1 Chapter 1 Lesson 1 in Chat 01.
-2. Use the standard lesson loop: learn → closed-book retrieval → targeted repair → WileyPLUS/Adaptive Practice.
-3. Record real time spent so Week 1 pacing can be recalibrated.
-4. Do not generate a large pre-emptive Anki deck.
+1. Reconcile any off-system work completed after the latest recorded Chapter 2 session.
+2. If no additional work exists, finish Chapter 2 Lessons 4–5 and complete Chapter 2 practice before moving on.
+3. Complete Chapters 3 and 4 with retrieval/practice; do not compress by deleting mastery checks.
+4. Run a full Unit 1 readiness assessment before Quiz 1.
+5. Check/request Midterm 1 booking as soon as current AU rules permit.
+6. Reforecast Quiz 1, Unit 2, Assignment 1, and Midterm 1 from actual pace; protect the Assignment 2 lab-kit critical path.
