@@ -109,3 +109,17 @@ Retest strategy: Spaced prediction with added acid and added base conditions.
 Anki needed: Yes — one targeted mechanism card in batch04.
 Anki card ID: batch04, tag m004
 Resolution evidence:
+
+### M005 — Figure 2.11 pH-scale interpretation
+Unit: 1
+Chapter/objective: Chapter 2, Lesson 4 — U1-C2-L4-O1
+Status: NEW
+Priority: Medium
+Root cause: graph/data interpretation error
+Typical error: At pH 6, selects neutral concentrations (H+ and OH- both 10^-7); overlooks that pH 8.41 and 5.59 are equally distant from 7.
+Correct model: From required Figure 2.11, at pH 6 H+ is 10^-6 M and OH- is 10^-8 M. A change in pH shifts H+ and OH- in opposite directions. Equal numeric distances above/below pH 7 are equally distant on the pH scale.
+Evidence: 2026-10-11 Lesson 4 coverage MCQ audit; 10/14 overall.
+Remediation: Interpret new pH values directly from Figure 2.11 and compare distances from pH 7.
+Retest: New pH values in straightforward one-best-answer questions; no excluded logarithm calculations.
+Anki needed: No — remediate with practice first.
+Resolution evidence:
