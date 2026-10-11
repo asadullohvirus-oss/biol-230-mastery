@@ -58,9 +58,9 @@ Completed 3 areas, one question at a time, closed book. Twelve systems: identifi
 | U1-C2-L4-O1 | Describe water, inorganic acids, bases, and salts | 2 | 2026-10-11: Correctly explained water polarity, pH direction, and acid behavior after correction; acids/bases/salts still need broader independent retrieval |
 | U1-C2-L4-O2 | Distinguish solutions, colloids, suspensions | 1 | 2026-10-11: Correctly classified all three after teaching but reported guessing; independent retrieval not yet demonstrated |
 | U1-C2-L4-O3 | Explain buffers in pH maintenance | 2 | 2026-10-11: Correctly predicted buffer response to higher and lower H+ after correction; spaced review needed |
-| U1-C2-L5-O1 | Describe functional groups of organic molecules | 0 | Not studied |
-| U1-C2-L5-O2 | Identify building blocks/functions of carbohydrates, lipids, proteins, nucleic acids | 0 | Not studied |
-| U1-C2-L5-O3 | Explain importance of ATP | 0 | Not studied |
+| U1-C2-L5-O1 | Describe functional groups of organic molecules | 1 | 2026-10-11: Correct on introductory MCQ; independent explanation and required scope review pending |
+| U1-C2-L5-O2 | Identify building blocks/functions of carbohydrates, lipids, proteins, nucleic acids | 1 | 2026-10-11: Correct introductory compound MCQs; protein structure and full assigned table coverage pending |
+| U1-C2-L5-O3 | Explain importance of ATP | 1 | 2026-10-11: Correct introductory ATP role MCQ; independent mechanism explanation pending |
 
 ## Unit 1 — Chapter 3
 
