@@ -123,3 +123,17 @@ Remediation: Interpret new pH values directly from Figure 2.11 and compare dista
 Retest: New pH values in straightforward one-best-answer questions; no excluded logarithm calculations.
 Anki needed: No — remediate with practice first.
 Resolution evidence:
+
+### M006 — Colloid versus suspension
+Unit: 1
+Chapter/objective: Chapter 2, Lesson 4 — U1-C2-L4-O2
+Status: CONFIRMED
+Priority: Medium
+Root cause: terminology confusion / missing knowledge
+Typical error: Classifies a cloudy light-scattering mixture whose particles remain dispersed as a suspension rather than a colloid; initially attributed difference to polarity.
+Correct model: Both solutions and colloids remain dispersed; colloids have particles large enough to scatter light. Suspensions contain material that eventually settles.
+Evidence: 2026-10-11 initial incorrect mechanism, guessed correctly after correction, then incorrect classification on targeted 5/7 MCQ retest.
+Remediation: Contrast particle size, light scattering and settling; retrieve explanation rather than recognize a label.
+Retest: Ask an unfamiliar mixture scenario and require causal explanation without answer choices after a delay.
+Anki needed: Existing targeted mixture comparison card in batch04; no duplicate.
+Resolution evidence:
