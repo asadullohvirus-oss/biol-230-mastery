@@ -92,3 +92,20 @@ Remediation: Charge-versus-pairing comparison.
 Retest: Spaced classification of novel ion/free-radical examples with explanation.
 Anki needed: Yes; pending.tsv batch03 m003.
 Resolution evidence: Immediate retrieval correct; spaced retest outstanding.
+
+### M004 — Bicarbonate buffer direction
+Unit: 1
+Chapter/objective: Chapter 2, Lesson 4 — U1-C2-L4-O3
+Status: NEW
+Priority: Medium
+Root cause: causal-direction error
+Typical error: Predicts that bicarbonate concentration increases when excess H+ is added.
+Correct model: Bicarbonate (HCO3-) accepts added H+ to form H2CO3, so HCO3- is consumed and initially decreases while the rise in free H+ is limited.
+Evidence/occurrences: 2026-10-11 Lesson 4 targeted correction test.
+First observed: 2026-10-11
+Last observed: 2026-10-11
+Remediation: Track which reactant is consumed when H+ + HCO3- forms H2CO3.
+Retest strategy: Spaced prediction with added acid and added base conditions.
+Anki needed: Yes — one targeted mechanism card in batch04.
+Anki card ID: batch04, tag m004
+Resolution evidence:
