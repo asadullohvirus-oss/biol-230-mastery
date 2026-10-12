@@ -66,10 +66,10 @@ Completed 3 areas, one question at a time, closed book. Twelve systems: identifi
 
 | ID | Objective | Mastery | Evidence |
 |---|---|---:|---|
-| U1-C3-L1-O1 | Describe the three main parts of a cell | 0 | Not studied |
-| U1-C3-L2-O1 | Describe fluid mosaic model | 0 | Not studied |
-| U1-C3-L2-O2 | Identify plasma-membrane lipid types | 0 | Not studied |
-| U1-C3-L2-O3 | Discuss membrane-protein functions | 0 | Not studied |
+| U1-C3-L1-O1 | Describe the three main parts of a cell | 1 | 2026-10-11: Correctly answered Chapter 3 L1–L2 practice MCQ set (14/14 overall); components, cytoplasm/cytosol, nucleus covered; independent explanation pending |
+| U1-C3-L2-O1 | Describe fluid mosaic model | 1 | 2026-10-11: Correct fluid mosaic, phospholipid orientation and fluidity MCQs; independent explanation pending |
+| U1-C3-L2-O2 | Identify plasma-membrane lipid types | 1 | 2026-10-11: Correctly identified phospholipids, cholesterol, glycolipids and their membrane behavior in MCQs; independent recall pending |
+| U1-C3-L2-O3 | Discuss membrane-protein functions | 1 | 2026-10-11: Correct channel/carrier/receptor/enzyme/linker/identity marker MCQs; independently explaining functions pending |
 | U1-C3-L3-O1 | Describe functions of cytoplasmic components | 0 | Not studied |
 | U1-C3-L4-O1 | Describe functions of the nucleus | 0 | Not studied |
 | U1-C3-L5-O1 | Describe protein synthesis using DNA as template | 0 | Not studied |
