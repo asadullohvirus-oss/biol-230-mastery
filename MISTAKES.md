@@ -137,3 +137,17 @@ Remediation: Contrast particle size, light scattering and settling; retrieve exp
 Retest: Ask an unfamiliar mixture scenario and require causal explanation without answer choices after a delay.
 Anki needed: Existing targeted mixture comparison card in batch04; no duplicate.
 Resolution evidence:
+
+### M007 — DNA triplet, RNA codon and base-pairing notation
+Unit: 1
+Chapter/objective: Chapter 3, Lesson 5 — U1-C3-L5-O1
+Status: NEW
+Priority: Medium
+Root cause: terminology confusion / sequence representation
+Typical error: Mistook an mRNA codon for three amino acids and produced a DNA-style complement containing T instead of an mRNA sequence containing U.
+Correct model: A DNA base triplet and an mRNA codon each contain three nucleotides; mRNA base pairing with template DNA follows A-U, T-A, C-G, G-C.
+Evidence: 2026-10-16 practice MCQ 15/17, missed Q2 and Q3.
+Remediation: Explain the difference and check RNA sequence notation during later spaced/cumulative recall, without immediate redundant retesting.
+Retest: Later cumulative application; not a prerequisite to starting Lesson 6.
+Anki needed: Not yet; reassess if error recurs.
+Resolution evidence:
