@@ -151,3 +151,31 @@ Remediation: Explain the difference and check RNA sequence notation during later
 Retest: Later cumulative application; not a prerequisite to starting Lesson 6.
 Anki needed: Not yet; reassess if error recurs.
 Resolution evidence:
+
+### M008 — Kinetochore attachment during mitosis
+Unit: 1
+Chapter/objective: Chapter 3, Lesson 6 — U1-C3-L6-O1
+Status: NEW
+Priority: Low
+Root cause: terminology / structure-function confusion
+Typical error: Incorrectly identified the role of the kinetochore on the Lesson 6 MCQ.
+Correct model: The kinetochore is a protein complex at a chromosome's centromere where spindle microtubules attach during mitosis.
+Evidence: 2026-10-22 practice MCQ 14/17; missed Q9.
+Remediation: Contrast centromere (chromosome region) with kinetochore (protein attachment complex).
+Retest: Later cumulative review, not immediate repeat.
+Anki needed: No card yet; only if recurring.
+Resolution evidence:
+
+### M009 — Cyclin–Cdk phosphorylation and division timing
+Unit: 1
+Chapter/objective: Chapter 3, Lesson 6 — U1-C3-L6-O2
+Status: NEW
+Priority: Medium
+Root cause: missing mechanism / causal prediction
+Typical error: Missed Cdk kinase action and effect of insufficient cyclin on mitotic entry.
+Correct model: Cyclin binds and activates a specific Cdk, which transfers phosphate from ATP to target proteins. Without sufficient cyclin the relevant Cdk complex remains inadequately active, delaying the subsequent cell-cycle events, including mitotic entry.
+Evidence: 2026-10-22 practice MCQ 14/17; missed Q15 and Q16 but Q14 correct.
+Remediation: Review the regulation paragraph once, then later predict the effect of cyclin changes.
+Retest: Later cumulative review, not immediate repeat.
+Anki needed: Consider one short mechanism/prediction card if difficulty recurs.
+Resolution evidence:
