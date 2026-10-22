@@ -75,7 +75,7 @@ Completed 3 areas, one question at a time, closed book. Twelve systems: identifi
 | U1-C3-L5-O1 | Describe protein synthesis using DNA as template | 1 | 2026-10-16: Read Lesson 5; practice MCQ 15/17 (88.2%). Missed codon definition and DNA-to-mRNA base pairing (U vs T); other gene-expression steps answered correctly. Independent explanation pending; proceed to Lesson 6 |
 | U1-C3-L6-O1 | Discuss phases/events/significance of somatic cell division | 1 | 2026-10-22: Practice MCQ 14/17 overall; stages, phases, replication and cytokinesis correct. Missed kinetochore as spindle attachment site (Q9). Independent explanation untested |
 | U1-C3-L6-O2 | Describe signals that induce cell division | 1 | 2026-10-22: Cyclin–Cdk activation (Q14) correct but missed Cdk phosphorylation using ATP (Q15) and delayed mitosis when cyclin insufficient (Q16). Review mechanism before later spaced assessment; ready to proceed |
-| U1-C3-L7-O1 | Describe how cells differ in size and shape | 0 | Not studied |
+| U1-C3-L7-O1 | Describe how cells differ in size and shape | 1 | 2026-10-22: Reading completed and MCQ 6/7 (85.7%). One incorrect relative cell size comparison (erythrocyte vs oocyte); correctly matched specialized shapes with physiological functions. Independent explanation pending; ready for Lesson 8 |
 | U1-C3-L8-O1 | Describe four basic tissue types and their functions | 0 | Not studied |
 | U1-C3-L8-O2 | Discuss functions of five main cell-junction types | 0 | Not studied |
 
