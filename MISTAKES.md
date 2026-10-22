@@ -179,3 +179,17 @@ Remediation: Review the regulation paragraph once, then later predict the effect
 Retest: Later cumulative review, not immediate repeat.
 Anki needed: Consider one short mechanism/prediction card if difficulty recurs.
 Resolution evidence:
+
+### M010 — Adherens versus desmosome junction function
+Unit: 1
+Chapter/objective: Chapter 3, Lesson 8 — U1-C3-L8-O2
+Status: NEW
+Priority: Medium
+Root cause: terminology confusion / structure-function contrast
+Typical error: Misidentified the adherens junction (Q14) and the desmosome (Q15) despite correctly classifying tight, gap and hemidesmosome junctions.
+Correct model: Adherens junctions link adjacent cells through plaques coupled to actin microfilaments; desmosomes provide spot-like cell-to-cell reinforcement anchored to intermediate filaments. For both, use Figure 3.30; exclude red-struck microscopic details.
+Evidence: 2026-10-22 Lesson 8 practice MCQ 13/17; missed Q14 and Q15.
+Remediation: Contrast function and cytoskeletal anchor once; later mixed cumulative application, not same question repeated.
+Retest: Chapter 3 cumulative review.
+Anki needed: Only if error recurs.
+Resolution evidence:
