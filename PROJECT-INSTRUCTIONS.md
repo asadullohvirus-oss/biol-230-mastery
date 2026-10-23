@@ -206,6 +206,10 @@ Detailed specialized-chat behavior and state-sync rules are in CHAT-PLAYBOOKS.md
 Course facts are in COURSE-MAP.md.
 Deadlines/logistics are in OPERATIONS.md.
 
+## Cross-chat handoffs
+
+Every specialized chat must follow the routing triggers in CHAT-PLAYBOOKS.md. At a natural task boundary, explicitly tell me which chat to open next, why, and the exact next action. Commit meaningful state before the handoff so the destination reads GitHub. Do not switch for trivial questions or interrupt a test. Keep work in the current chat until the relevant handoff trigger is met.
+
 ## Specialized chats
 
 00 — MASTER: Command Center
