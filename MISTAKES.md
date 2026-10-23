@@ -234,7 +234,7 @@ Evidence/occurrences: 2026-10-23 cross-lesson MCQ Q9 incorrect (D instead of B);
 First observed: 2026-10-23
 Last observed: 2026-10-23
 Remediation: Contrast catalytic rate, activation barrier, and net potential energy. Short correction already supplied after MCQ; later require independent prediction in a new pathway without answer choices.
-Retest strategy: Delayed novel pathway scenario with altered enzyme concentration or activation; require prediction of intermediate/product and whether reactant-product energy difference changes.
+Retest strategy: First spaced retest due 2026-10-27 (or first Chat 02 session thereafter). Use an unfamiliar pathway with altered enzyme concentration or activation; require a closed-book prediction of intermediate and product changes and whether the reactant–product energy difference changes. Do not repeat the 2026-10-23 Q9 stem or test M013 during the M010–M012 remediation.
 Anki needed: No — first occurrence; retest before considering a card.
 Anki card ID:
 Resolution evidence:
