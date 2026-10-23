@@ -90,7 +90,7 @@ Completed 3 areas, one question at a time, closed book. Twelve systems: identifi
 | U1-C4-L3-O1 | List properties of enzymes | 1 | 2026-10-22: Lesson 3 first MCQ 5/5; identified specificity (Q1) and enzyme regulation (Q2). Efficiency taught but not independently assessed; complete properties check pending |
 | U1-C4-L3-O2 | Explain how an enzyme functions | 1 | 2026-10-22: Lesson 3 first MCQ 5/5; identified induced fit (Q3), effect of changed active site on substrate binding (Q4), and catalytic role of active site (Q5). Recognition/application in MCQs only; unprompted explanation pending |
 | U1-C4-L3-O3 | Identify factors affecting enzymatic rate | 1 | 2026-10-22: Lesson 3 second interactive MCQ 6/6, all correct; temperature optimum and high-temperature denaturation (Q1–2), pH effect on active site (Q3), substrate saturation (Q4), Zn²⁺ cofactor (Q5), inhibitor action (Q6). Strong initial recognition/application, independent explanation pending |
-| U1-C4-L3-O4 | Describe a metabolic pathway | 0 | Not studied |
+| U1-C4-L3-O4 | Describe a metabolic pathway | 1 | 2026-10-22: Final Lesson 3 interactive MCQ 7/7; correctly recognized pathway intermediates (Q1), effects of blocked second and first steps (Q2/Q7), feedback inhibition (Q3), relief when end product decreases (Q4), regulatory usefulness (Q5), and allosteric activation (Q6). Lesson 3 total 18/18 in three checkpoints. Novel MCQ transfer is strong, but independent construction/explanation not yet shown |
 | U1-C4-L4-O1 | Explain ATP in anabolism/catabolism | 0 | Not studied |
 | U1-C4-L4-O2 | Compare substrate-level vs oxidative phosphorylation | 0 | Not studied |
 | U1-C4-L4-O3 | Describe NAD+ and FAD in ATP generation | 0 | Not studied |
