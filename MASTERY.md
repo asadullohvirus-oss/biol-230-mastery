@@ -1,7 +1,7 @@
 # Mastery Matrix
 
-Last updated: 2026-10-22
-Status: UNIT 1 — CHAPTERS 1–3 COVERED; CHAPTER 4 NEXT
+Last updated: 2026-10-23
+Status: UNIT 1 — CHAPTER 4 LESSONS 1–3 PRACTICED; LESSON 4 NEXT
 
 ## Scale
 
@@ -83,14 +83,14 @@ Completed 3 areas, one question at a time, closed book. Twelve systems: identifi
 
 | ID | Objective | Mastery | Evidence |
 |---|---|---:|---|
-| U1-C4-L1-O1 | Define metabolism | 3 | 2026-10-22: Closed-book defined metabolism as chemical reactions in the body, independently distinguished breakdown (catabolism) and formation (anabolism), and correctly classified digestion and building membrane phospholipids as standard applications. No novel perturbation evidence for level 4 |
-| U1-C4-L2-O1 | Describe forms of energy | 1 | 2026-10-22: Defined potential/kinetic with support, selected potential→kinetic energy conversion correctly (first checkpoint Q1). Recognition-level only; independent complete explanation pending |
-| U1-C4-L2-O2 | Compare exergonic vs endergonic reactions | 1 | 2026-10-22: First 5-item checkpoint 3/5; missed anabolic protein synthesis as endergonic and lower-energy products as exergonic. Second 6/6 correct on activation-energy context; no direct changed-context verification of those two misses yet. Review during spaced retrieval |
-| U1-C4-L2-O3 | Explain activation energy and catalysts | 1 | 2026-10-22: Activation energy and catalysts MCQ 6/6 (Q1–Q6 correct); correctly predicted effect of enzyme loss, catalyst reuse, concentration, unchanged net energy and lower activation barrier. Applied MCQ evidence strong; independent explanation/prediction not yet observed |
-| U1-C4-L3-O1 | List properties of enzymes | 1 | 2026-10-22: Lesson 3 first MCQ 5/5; identified specificity (Q1) and enzyme regulation (Q2). Efficiency taught but not independently assessed; complete properties check pending |
-| U1-C4-L3-O2 | Explain how an enzyme functions | 1 | 2026-10-22: Lesson 3 first MCQ 5/5; identified induced fit (Q3), effect of changed active site on substrate binding (Q4), and catalytic role of active site (Q5). Recognition/application in MCQs only; unprompted explanation pending |
-| U1-C4-L3-O3 | Identify factors affecting enzymatic rate | 1 | 2026-10-22: Lesson 3 second interactive MCQ 6/6, all correct; temperature optimum and high-temperature denaturation (Q1–2), pH effect on active site (Q3), substrate saturation (Q4), Zn²⁺ cofactor (Q5), inhibitor action (Q6). Strong initial recognition/application, independent explanation pending |
-| U1-C4-L3-O4 | Describe a metabolic pathway | 1 | 2026-10-22: Final Lesson 3 interactive MCQ 7/7; correctly recognized pathway intermediates (Q1), effects of blocked second and first steps (Q2/Q7), feedback inhibition (Q3), relief when end product decreases (Q4), regulatory usefulness (Q5), and allosteric activation (Q6). Lesson 3 total 18/18 in three checkpoints. Novel MCQ transfer is strong, but independent construction/explanation not yet shown |
+| U1-C4-L1-O1 | Define metabolism | 3 | 2026-10-22: Closed-book defined metabolism, distinguished catabolism/anabolism and applied both correctly. 2026-10-23: new synthesis-as-anabolic/endergonic MCQ correct. Level 3 retained; no unprompted novel production for level 4 |
+| U1-C4-L2-O1 | Describe forms of energy | 1 | 2026-10-22: Potential/kinetic with support and conversion MCQ correct. 2026-10-23: new chemical potential energy MCQ Q4 correct. Level 1 retained pending independent explanation |
+| U1-C4-L2-O2 | Compare exergonic vs endergonic reactions | 1 | 2026-10-22: 3/5 energy checkpoint, missed protein synthesis as endergonic and lower-energy products as exergonic. 2026-10-23 changed-context MCQs Q1 (anabolic storage-carbohydrate synthesis), Q2 (lower-energy products despite activation barrier) and Q3 (energetic coupling) all correct; historic errors improving, no demonstrated independent verbal explanation yet. Level 1 retained |
+| U1-C4-L2-O3 | Explain activation energy and catalysts | 1 | 2026-10-22: Activation energy/catalysts MCQ 6/6. 2026-10-23 new Q2 and Q3 correct (barrier vs net energy and coupling). Q9 missed by claiming enzyme activation necessarily changes net reaction energy difference; rate-versus-energy concept needs follow-up. Level 1 retained |
+| U1-C4-L3-O1 | List properties of enzymes | 1 | 2026-10-22: Lesson 3 initial MCQ 5/5 on specificity/regulation. 2026-10-23 new Q5 correct on catalytic efficiency (high turnover per enzyme), completing three property types at MCQ level; unprompted listing/explanation pending, level 1 retained |
+| U1-C4-L3-O2 | Explain how an enzyme functions | 1 | 2026-10-22: First lesson MCQ 5/5 on enzyme function; 2026-10-23 novel Q6 reversible enzyme reaction net direction correct. Level 1 retained pending unprompted explanation |
+| U1-C4-L3-O3 | Identify factors affecting enzymatic rate | 1 | 2026-10-22: Second Lesson 3 MCQ 6/6 on catalytic factors. 2026-10-23 Q9 missed on activating B→C in A→B→C→D: selected that rate increase necessarily changes net reaction energy rather than predicting B decrease/D flux increase. Need changed-context rate/pathway prediction and distinction from net energetics; level 1 retained |
+| U1-C4-L3-O4 | Describe a metabolic pathway | 1 | 2026-10-22: Final Lesson 3 checkpoint 7/7 on pathways and feedback. 2026-10-23 new Q7 blocked-step bypass and Q8 loss of end-product inhibition correct, but Q9 rate increase on second enzyme wrong; 8/9 across cross-lesson application MCQs. Strong MCQ transfer with one causal/energy misconception; independent pathway explanation pending, level 1 retained |
 | U1-C4-L4-O1 | Explain ATP in anabolism/catabolism | 0 | Not studied |
 | U1-C4-L4-O2 | Compare substrate-level vs oxidative phosphorylation | 0 | Not studied |
 | U1-C4-L4-O3 | Describe NAD+ and FAD in ATP generation | 0 | Not studied |
@@ -99,6 +99,10 @@ Completed 3 areas, one question at a time, closed book. Twelve systems: identifi
 | U1-C4-L6-O1 | Describe fate/metabolism/functions of lipids | 0 | Not studied |
 | U1-C4-L7-O1 | Describe fate/metabolism/functions of proteins | 0 | Not studied |
 | U1-C4-L8-O1 | Explain importance of minerals/vitamins in metabolism | 0 | Not studied |
+
+### Chapter 4 Lessons 1–3 — Cross-lesson closed-book MCQ (2026-10-23)
+
+Score 8/9 (88.9%), novel one-best-answer scenarios. Correct Q1–Q8; incorrect Q9 (activated B→C step in A→B→C→D). The two prior Lesson 2 exergonic/endergonic misses were correctly solved in changed contexts (anabolic synthesis with net input = endergonic, products below reactants = exergonic despite activation barrier); energy coupling also correct. Enzyme catalytic efficiency Q5 correct, reversible catalysis Q6 correct, blocked-step bypass Q7 correct, loss of end-product inhibition Q8 correct. Q9 chose rate activation necessarily changes net energy difference rather than B initially falling and D formation increasing; incorrect mechanism separating rate/flux from reactant-product energy. MCQ application evidence strengthened but objective levels 1 for U1-C4-L2-O1–O3 and U1-C4-L3-O1–O4 remain until independent explanations are demonstrated; L1-O1 retains level 3. No graded or WileyPLUS completion inferred. Ready to start Lesson 4, with one later changed-context retest of Q9 mechanism.
 
 ## Scope exclusions that affect mastery
 
