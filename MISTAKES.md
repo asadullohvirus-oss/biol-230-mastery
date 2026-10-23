@@ -141,12 +141,12 @@ Resolution evidence:
 ### M007 — DNA triplet, RNA codon and base-pairing notation
 Unit: 1
 Chapter/objective: Chapter 3, Lesson 5 — U1-C3-L5-O1
-Status: NEW
+Status: IMPROVING
 Priority: Medium
 Root cause: terminology confusion / sequence representation
 Typical error: Mistook an mRNA codon for three amino acids and produced a DNA-style complement containing T instead of an mRNA sequence containing U.
 Correct model: A DNA base triplet and an mRNA codon each contain three nucleotides; mRNA base pairing with template DNA follows A-U, T-A, C-G, G-C.
-Evidence: 2026-10-16 practice MCQ 15/17, missed Q2 and Q3.
+Evidence: 2026-10-16 practice MCQ 15/17, missed Q2 and Q3. 2026-10-22 cumulative Q11 and Q12 correct on new RNA complement and codon-change applications; independent explanation not yet tested.
 Remediation: Explain the difference and check RNA sequence notation during later spaced/cumulative recall, without immediate redundant retesting.
 Retest: Later cumulative application; not a prerequisite to starting Lesson 6.
 Anki needed: Not yet; reassess if error recurs.
@@ -155,12 +155,12 @@ Resolution evidence:
 ### M008 — Kinetochore attachment during mitosis
 Unit: 1
 Chapter/objective: Chapter 3, Lesson 6 — U1-C3-L6-O1
-Status: NEW
+Status: IMPROVING
 Priority: Low
 Root cause: terminology / structure-function confusion
 Typical error: Incorrectly identified the role of the kinetochore on the Lesson 6 MCQ.
 Correct model: The kinetochore is a protein complex at a chromosome's centromere where spindle microtubules attach during mitosis.
-Evidence: 2026-10-22 practice MCQ 14/17; missed Q9.
+Evidence: 2026-10-22 practice MCQ 14/17; missed Q9. 2026-10-22 cumulative Q1 correct on novel kinetochore disruption scenario.
 Remediation: Contrast centromere (chromosome region) with kinetochore (protein attachment complex).
 Retest: Later cumulative review, not immediate repeat.
 Anki needed: No card yet; only if recurring.
@@ -169,12 +169,12 @@ Resolution evidence:
 ### M009 — Cyclin–Cdk phosphorylation and division timing
 Unit: 1
 Chapter/objective: Chapter 3, Lesson 6 — U1-C3-L6-O2
-Status: NEW
+Status: IMPROVING
 Priority: Medium
 Root cause: missing mechanism / causal prediction
 Typical error: Missed Cdk kinase action and effect of insufficient cyclin on mitotic entry.
 Correct model: Cyclin binds and activates a specific Cdk, which transfers phosphate from ATP to target proteins. Without sufficient cyclin the relevant Cdk complex remains inadequately active, delaying the subsequent cell-cycle events, including mitotic entry.
-Evidence: 2026-10-22 practice MCQ 14/17; missed Q15 and Q16 but Q14 correct.
+Evidence: 2026-10-22 practice MCQ 14/17; missed Q15 and Q16 but Q14 correct. 2026-10-22 cumulative Q2 and Q3 correct on cyclin loss and deficient Cdk kinase activity.
 Remediation: Review the regulation paragraph once, then later predict the effect of cyclin changes.
 Retest: Later cumulative review, not immediate repeat.
 Anki needed: Consider one short mechanism/prediction card if difficulty recurs.
@@ -183,13 +183,41 @@ Resolution evidence:
 ### M010 — Adherens versus desmosome junction function
 Unit: 1
 Chapter/objective: Chapter 3, Lesson 8 — U1-C3-L8-O2
-Status: NEW
+Status: CONFIRMED
 Priority: Medium
 Root cause: terminology confusion / structure-function contrast
 Typical error: Misidentified the adherens junction (Q14) and the desmosome (Q15) despite correctly classifying tight, gap and hemidesmosome junctions.
 Correct model: Adherens junctions link adjacent cells through plaques coupled to actin microfilaments; desmosomes provide spot-like cell-to-cell reinforcement anchored to intermediate filaments. For both, use Figure 3.30; exclude red-struck microscopic details.
-Evidence: 2026-10-22 Lesson 8 practice MCQ 13/17; missed Q14 and Q15.
+Evidence: 2026-10-22 Lesson 8 practice MCQ 13/17; missed Q14 and Q15. 2026-10-22 cumulative Q4 again misidentified adherens as gap; Q6 misidentified hemidesmosome as adherens (Q5 desmosome correct).
 Remediation: Contrast function and cytoskeletal anchor once; later mixed cumulative application, not same question repeated.
-Retest: Chapter 3 cumulative review.
+Retest: Spaced mixed junction-function application after reviewing Figure 3.30; do not repeat correctly answered stems.
 Anki needed: Only if error recurs.
+Resolution evidence:
+
+### M011 — Connective tissue collagen, elastic and reticular fibers
+Unit: 1
+Chapter/objective: Chapter 3, Lesson 8 — U1-C3-L8-O1
+Status: CONFIRMED
+Priority: Medium
+Root cause: terminology confusion / structure-function contrast
+Typical error: Confuses fibers giving tensile strength with those providing elasticity or fine structural support.
+Correct model: Collagen resists pulling forces; elastic fibers stretch and recoil; reticular fibers form delicate supporting networks.
+Evidence: 2026-10-22 Lesson 8 Q8 wrong; cumulative Q7 incorrectly chose elastic for tensile strength and Q9 incorrectly chose collagen for fine supporting network. Cumulative Q8 elastic recoil correct.
+Remediation: Contrast the three functions using unfamiliar tissue examples; do not repeat already-correct Q8.
+Retest: Brief later mixed tissue application during Unit 1 readiness.
+Anki needed: Consider a single comparative card only if confusion persists after this review.
+Resolution evidence:
+
+### M012 — Neurons versus neuroglia
+Unit: 1
+Chapter/objective: Chapter 3, Lesson 8 — U1-C3-L8-O1
+Status: CONFIRMED
+Priority: Medium
+Root cause: missing knowledge / causal application
+Typical error: Unreliable recognition of neuroglial support role, despite learning neuron electrical signalling.
+Correct model: Neurons primarily generate and conduct electrical signals; neuroglia support, protect and help maintain neurons.
+Evidence: 2026-10-22 Lesson 8 Q12 incorrect and Chapter 3 cumulative Q10 again incorrect on consequence of losing supporting cells.
+Remediation: Contrast what happens to tissue function if neuroglial support is lost without direct neuronal destruction.
+Retest: Spaced integrated Chapter 3 review, without repeating stems.
+Anki needed: Only if still missed on a spaced review.
 Resolution evidence:
