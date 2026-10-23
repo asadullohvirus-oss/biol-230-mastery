@@ -188,3 +188,8 @@ Created Sep 24, 2026 on primary calendar; they are personal targets, not AU-assi
 - Dec 9 and Dec 16 AU kit receipt/transcript processing follow-ups; Jan 5 admissions-buffer escalation.
 
 **Calendar dates must be moved when actual work, grading, shipping, instructor feedback or exam bookings change.** The Final must not be attempted before the official pre-final conditions are met. The calendar also includes externally verified MPAS deadlines and earlier internal submission targets.
+
+
+## October 22, 2026 operational alert
+
+The provisional Midterm 1 date was Oct 22; GitHub does not record an approved booking or completed exam. Treat that calendar entry as expired and check AU booking rules and availability now. The provisional Quiz 1, Quiz 2 and A1 submission dates also passed without recorded completion; reforecast before moving dates. The official kit-request page previously provided required both Assignment 1 and Assignment 2 submitted before requesting; shipment is separately gated by the Assignment 2 mark. Verify live portal wording if necessary. Current administrative lead times are UNKNOWN, and these unknowns threaten the Dec 1–5 target.

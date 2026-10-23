@@ -1,6 +1,6 @@
 # Accelerated Roadmap
 
-Status: PRE-COURSE / INGESTION
+Status: REBASELINE REQUIRED — Oct 22, 2026 (Unit 1 Chapter 4 next)
 Official start: 2026-10-01
 Primary completion target: 2026-12-01 to 2026-12-02
 Contingency completion target: 2026-12-05
@@ -186,3 +186,12 @@ Current provisional targets:
 **HIGH RISK:** Shipment waits for A2's mark. The Dec 2 final date is contingent on any required Lab Assignment feedback already being received/reviewed. The Lab Manual and exact AU marking/shipping turnaround are not yet ingested; do not assume the calendar proves the early-December plan is feasible. Escalate and reforecast immediately when real turnaround becomes known.
 
 A baseline of 30 focused hours per week is represented by movable calendar holds: 4h Mon–Sat plus 2h Tue/Thu/Sat. Weekly cumulative assessment and Master review are separate Sunday sessions. These blocks are preferences, not obligations to study at a specific time if they clash with other commitments.
+
+
+## October 22, 2026 rebaseline — precedence over original calendar dates
+
+Latest recorded work now covers Ch1–3 of Unit 1 (17/25 lessons), with Chapter 3 initial MCQ practice 86/97 but cumulative application 10/15. Chapter 4 is next. No graded course milestone, assignment submission, exam request or lab shipment is confirmed in GitHub.
+
+The original Oct 12–22 Quiz 1 / Quiz 2 / A1 / Midterm 1 targets have passed without confirmation; all remaining October/November chapter and exam dates are provisional and should **not** be blindly followed. December 1–5 remains the desired finish, but is at substantial risk; a defensible new dated forecast requires: actual time/lesson data, A1/A2 rubrics, current marking/shipping lead times, exam booking availability, and clarification of Final feedback requirements.
+
+Immediate academic priority: Ch4 Lessons 1–8 followed by Unit 1 cumulative readiness; do not retake every correct Ch3 MCQ. Target confirmed recurring errors M010–M012 and selected Chapter 1/2 retrieval misses. Immediate logistics priority: Midterm 1 booking/lead time and A1 prompt; protect the A2 → Home Lab Kit shipment/transcript dependency. Do not treat any calendar exam placeholder as an approved booking.

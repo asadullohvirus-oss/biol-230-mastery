@@ -1,7 +1,7 @@
 # Mastery Matrix
 
-Last updated: 2026-10-01
-Status: UNIT 1 LEARNING IN PROGRESS
+Last updated: 2026-10-22
+Status: UNIT 1 — CHAPTERS 1–3 COVERED; CHAPTER 4 NEXT
 
 ## Scale
 
@@ -17,7 +17,7 @@ Mastery is based on demonstrated closed-book performance, not reading completion
 
 | Unit | Chapters | Current mastery | Evidence |
 |---|---|---:|---|
-| Unit 1 | 1–4 | 0.4 | All 8 Chapter 1 objectives checked: 3 at level 3 and 5 at level 2; chapter practice remains pending |
+| Unit 1 | 1–4 | 5 of 48 objectives at ≥3; 16 still at 0 | Chapters 1–3 first-pass/practice evidence; Chapter 3 cumulative 10/15 on Oct 22; independent explanation mastery often pending |
 | Unit 2 | 5–8 | 0 | Not studied |
 | Unit 3 | 9–12 | 0 | Not studied |
 | Unit 4 | 13–15 | 0 | Not studied |
