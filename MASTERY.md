@@ -87,8 +87,8 @@ Completed 3 areas, one question at a time, closed book. Twelve systems: identifi
 | U1-C4-L2-O1 | Describe forms of energy | 1 | 2026-10-22: Defined potential/kinetic with support, selected potential→kinetic energy conversion correctly (first checkpoint Q1). Recognition-level only; independent complete explanation pending |
 | U1-C4-L2-O2 | Compare exergonic vs endergonic reactions | 1 | 2026-10-22: First 5-item checkpoint 3/5; missed anabolic protein synthesis as endergonic and lower-energy products as exergonic. Second 6/6 correct on activation-energy context; no direct changed-context verification of those two misses yet. Review during spaced retrieval |
 | U1-C4-L2-O3 | Explain activation energy and catalysts | 1 | 2026-10-22: Activation energy and catalysts MCQ 6/6 (Q1–Q6 correct); correctly predicted effect of enzyme loss, catalyst reuse, concentration, unchanged net energy and lower activation barrier. Applied MCQ evidence strong; independent explanation/prediction not yet observed |
-| U1-C4-L3-O1 | List properties of enzymes | 0 | Not studied |
-| U1-C4-L3-O2 | Explain how an enzyme functions | 0 | Not studied |
+| U1-C4-L3-O1 | List properties of enzymes | 1 | 2026-10-22: Lesson 3 first MCQ 5/5; identified specificity (Q1) and enzyme regulation (Q2). Efficiency taught but not independently assessed; complete properties check pending |
+| U1-C4-L3-O2 | Explain how an enzyme functions | 1 | 2026-10-22: Lesson 3 first MCQ 5/5; identified induced fit (Q3), effect of changed active site on substrate binding (Q4), and catalytic role of active site (Q5). Recognition/application in MCQs only; unprompted explanation pending |
 | U1-C4-L3-O3 | Identify factors affecting enzymatic rate | 0 | Not studied |
 | U1-C4-L3-O4 | Describe a metabolic pathway | 0 | Not studied |
 | U1-C4-L4-O1 | Explain ATP in anabolism/catabolism | 0 | Not studied |
