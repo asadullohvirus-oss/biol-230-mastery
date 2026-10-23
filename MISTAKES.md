@@ -188,10 +188,10 @@ Priority: Medium
 Root cause: terminology confusion / structure-function contrast
 Typical error: Misidentified the adherens junction (Q14) and the desmosome (Q15) despite correctly classifying tight, gap and hemidesmosome junctions.
 Correct model: Adherens junctions link adjacent cells through plaques coupled to actin microfilaments; desmosomes provide spot-like cell-to-cell reinforcement anchored to intermediate filaments. For both, use Figure 3.30; exclude red-struck microscopic details.
-Evidence: 2026-10-22 Lesson 8 practice MCQ 13/17; missed Q14 and Q15. 2026-10-22 cumulative Q4 again misidentified adherens as gap; Q6 misidentified hemidesmosome as adherens (Q5 desmosome correct).
-Remediation: Contrast function and cytoskeletal anchor once; later mixed cumulative application, not same question repeated.
-Retest: Spaced mixed junction-function application after reviewing Figure 3.30; do not repeat correctly answered stems.
-Anki needed: Only if error recurs.
+Evidence: 2026-10-22 Lesson 8 practice MCQ 13/17; missed Q14 and Q15. 2026-10-22 cumulative Q4 again misidentified adherens as gap; Q6 misidentified hemidesmosome as adherens (Q5 desmosome correct). 2026-10-23 Chat 03 changed-context remediation 0/3: actin-linked adhesion, intermediate-filament spot reinforcement, and basement-membrane-versus-gap-junction pairing all incorrect; remains CONFIRMED.
+Remediation: Reviewed contrasting actin-linked adherens, intermediate-filament-linked desmosomes, basement-membrane hemidesmosomes, and communicating gap junctions; corrected the three selected distractors after the 0/3 attempt. Corrected recall not independently demonstrated.
+Retest: Chat 02 independent, no-choice changed-context application on/after 2026-10-26 (at least one overnight interval). Distinguish cell-to-cell mechanical adhesion, cell-to-matrix anchoring, and direct communication; no previous stems or excluded microscopic detail.
+Anki needed: Yes — two selective nonduplicate comparison cards added to anki/pending.tsv (2026-10-23), tagged m010.
 Resolution evidence:
 
 ### M011 — Connective tissue collagen, elastic and reticular fibers
@@ -202,10 +202,10 @@ Priority: Medium
 Root cause: terminology confusion / structure-function contrast
 Typical error: Confuses fibers giving tensile strength with those providing elasticity or fine structural support.
 Correct model: Collagen resists pulling forces; elastic fibers stretch and recoil; reticular fibers form delicate supporting networks.
-Evidence: 2026-10-22 Lesson 8 Q8 wrong; cumulative Q7 incorrectly chose elastic for tensile strength and Q9 incorrectly chose collagen for fine supporting network. Cumulative Q8 elastic recoil correct.
-Remediation: Contrast the three functions using unfamiliar tissue examples; do not repeat already-correct Q8.
-Retest: Brief later mixed tissue application during Unit 1 readiness.
-Anki needed: Consider a single comparative card only if confusion persists after this review.
+Evidence: 2026-10-22 Lesson 8 Q8 wrong; cumulative Q7 incorrectly chose elastic for tensile strength and Q9 incorrectly chose collagen for fine supporting network. Cumulative Q8 elastic recoil correct. 2026-10-23 Chat 03 changed-context remediation 0/2: selected elastic rather than collagen for loss of tensile strength, and thick collagen rather than reticular for lost delicate support; remains CONFIRMED.
+Remediation: Corrected pulling/tensile force → collagen, stretch/recoil → elastic, and delicate cell-supporting mesh → reticular after unsuccessful application. No independent corrected retrieval yet.
+Retest: Chat 02 independent changed-context application on/after 2026-10-26 (at least one overnight interval), using new tissue scenarios and no answer choices; avoid repeats of already-correct elastic recoil question.
+Anki needed: Yes — one selective comparative collagen-versus-reticular card, with elastic recall in Extra; tagged m011 in anki/pending.tsv (2026-10-23).
 Resolution evidence:
 
 ### M012 — Neurons versus neuroglia
@@ -216,10 +216,10 @@ Priority: Medium
 Root cause: missing knowledge / causal application
 Typical error: Unreliable recognition of neuroglial support role, despite learning neuron electrical signalling.
 Correct model: Neurons primarily generate and conduct electrical signals; neuroglia support, protect and help maintain neurons.
-Evidence: 2026-10-22 Lesson 8 Q12 incorrect and Chapter 3 cumulative Q10 again incorrect on consequence of losing supporting cells.
-Remediation: Contrast what happens to tissue function if neuroglial support is lost without direct neuronal destruction.
-Retest: Spaced integrated Chapter 3 review, without repeating stems.
-Anki needed: Only if still missed on a spaced review.
+Evidence: 2026-10-22 Lesson 8 Q12 incorrect and Chapter 3 cumulative Q10 again incorrect on consequence of losing supporting cells. 2026-10-23 Chat 03 changed-context remediation 1/2: incorrectly predicted neuronal conversion rather than declining support after selective glial impairment; correctly distinguished direct neuronal loss from neuroglial support loss on the next question. Remains CONFIRMED; one correct prompted-choice application insufficient.
+Remediation: Corrected glial impairment → weaker support/protection/maintenance and potentially unreliable neuronal function, rather than transdifferentiation; differentiated neurons as electrical signaling cells. Needs unprompted production.
+Retest: Chat 02 independent new-context free-response on/after 2026-10-26 (at least one overnight interval), predict effect of selective support-cell dysfunction with neurons still intact; no old stems.
+Anki needed: Yes — one concise prediction card tagged m012 added to anki/pending.tsv (2026-10-23) after repeat mismatch.
 Resolution evidence:
 
 ### M013 — Enzyme activity versus net reaction energy in a pathway
