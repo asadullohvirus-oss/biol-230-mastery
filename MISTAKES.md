@@ -1,6 +1,6 @@
 # Mistake Ledger
 
-Last updated: 2026-10-01
+Last updated: 2026-10-23
 Status: ACTIVE
 
 Track meaningful conceptual errors only.
@@ -220,4 +220,21 @@ Evidence: 2026-10-22 Lesson 8 Q12 incorrect and Chapter 3 cumulative Q10 again i
 Remediation: Contrast what happens to tissue function if neuroglial support is lost without direct neuronal destruction.
 Retest: Spaced integrated Chapter 3 review, without repeating stems.
 Anki needed: Only if still missed on a spaced review.
+Resolution evidence:
+
+### M013 — Enzyme activity versus net reaction energy in a pathway
+Unit: 1
+Chapter/objective: Chapter 4, Lesson 2 / Lesson 3 — U1-C4-L2-O3, U1-C4-L3-O3, U1-C4-L3-O4
+Status: NEW
+Priority: Medium
+Root cause: incorrect mechanism / causal-direction prediction
+Typical error: When an enzyme catalyzing B → C in A → B → C → D is activated with ample B and downstream capacity, selects that activation necessarily changes the net energy difference rather than initially accelerating B use and downstream D formation.
+Correct model: Increasing enzyme activity changes the rate/flux of its catalyzed reaction, not the energy difference between reactants and products. Under the specified conditions B initially decreases and D formation can increase.
+Evidence/occurrences: 2026-10-23 cross-lesson MCQ Q9 incorrect (D instead of B); rest of set Q1–Q8 correct, including novel blocked-step and feedback inhibition scenarios.
+First observed: 2026-10-23
+Last observed: 2026-10-23
+Remediation: Contrast catalytic rate, activation barrier, and net potential energy. Short correction already supplied after MCQ; later require independent prediction in a new pathway without answer choices.
+Retest strategy: Delayed novel pathway scenario with altered enzyme concentration or activation; require prediction of intermediate/product and whether reactant-product energy difference changes.
+Anki needed: No — first occurrence; retest before considering a card.
+Anki card ID:
 Resolution evidence:
