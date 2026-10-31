@@ -1,6 +1,6 @@
 # Mistake Ledger
 
-Last updated: 2026-10-30
+Last updated: 2026-10-31
 Status: ACTIVE
 
 Track meaningful conceptual errors only.
@@ -254,4 +254,21 @@ Remediation: Targeted correction given 2026-10-30: glycogenesis stores glucose a
 Retest strategy: In Chat 02 cumulative Chapter 4 retrieval no earlier than 2026-11-02, use one unfamiliar no-choice liver energy-state or substrate-availability scenario; require naming the correct pathway and predicting flux with limited substrate. Do not repeat prior drug/depleted-store or selective glycogenesis-impairment stems. Grade independent causal chain; do not infer resolution from immediate correction.
 Anki needed: Yes — one selective no-choice substrate-limitation prediction card added after recurrent free-response application error; no prior glycogen-pathway card in pending.tsv.
 Anki card ID: tag m014, added 2026-10-30 to anki/pending.tsv
+Resolution evidence:
+
+### M015 — Lipolysis versus beta oxidation mechanism
+Unit: 1
+Chapter/objective: Chapter 4, Lesson 6 — U1-C4-L6-O1
+Status: CONFIRMED
+Priority: Medium
+Root cause: terminology confusion / incomplete metabolic chain
+Typical error: Attributes release of fatty acids from stored triglycerides to beta oxidation, rather than lipolysis.
+Correct model: Lipolysis cleaves stored triglycerides to glycerol and fatty acids; beta oxidation acts on fatty acids afterward and yields acetyl CoA; liver ketogenesis can convert acetyl CoA to ketone bodies.
+Evidence/occurrences: 2026-10-30 initial Lesson 6 checkpoint selected beta oxidation for triglyceride cleavage; later selected-answer novel test distinguished these processes (correct); 2026-10-31 cumulative independent free-response again credited beta oxidation for release of fatty acids from stored triglycerides. Same mechanism confusion recurred despite MCQ correction.
+First observed: 2026-10-30
+Last observed: 2026-10-31
+Remediation: Corrected distinction in the cumulative-test feedback. Avoid immediate repetitive drilling while user pauses study.
+Retest strategy: At a later session, ask one unfamiliar no-choice lipid fate chain; require separate naming of triglyceride cleavage, fatty-acid breakdown, and resulting acetyl CoA fate. Do not repeat prior test stems.
+Anki needed: Not yet — consider a single pathway chain card if an independent retest remains incorrect.
+Anki card ID:
 Resolution evidence:
