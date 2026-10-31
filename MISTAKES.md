@@ -238,3 +238,20 @@ Retest strategy: Spaced free-response retest passed on 2026-10-30. Keep eligible
 Anki needed: No — first occurrence; retest before considering a card.
 Anki card ID:
 Resolution evidence: Successful 2026-10-30 spaced independent closed-book 3/3, novel pathway: correctly explained increased intermediate concentration and decreased product formation under enzyme inhibition, while activation energy and reaction rate (not net energy difference) are affected. Resolved on spaced independent application, not merely same-day correction.
+
+### M014 — Glycogen synthesis versus breakdown and new-glucose pathways
+Unit: 1
+Chapter/objective: Chapter 4, Lesson 5 — U1-C4-L5-O1
+Status: CONFIRMED
+Priority: Medium
+Root cause: terminology confusion / causal-direction confusion (exact cause not yet independently explained)
+Typical error: During first-pass Lesson 5, selected gluconeogenesis instead of glycogenesis for storing glucose as glycogen; in a separate new-context Chapter 4 mixed test, chose that glycogen breakdown must increase to manufacture glycogen when glycogen synthesis is selectively impaired.
+Correct model: Glycogenesis assembles glucose into glycogen for storage. Glycogenolysis mobilizes glycogen by breaking it down. Gluconeogenesis creates new glucose from noncarbohydrate precursors. A selective glycogenesis defect reduces storage capacity, without necessarily disabling gluconeogenesis.
+Evidence/occurrences: 2026-10-30 Lesson 5 first-pass checkpoint Chunk 1 storage classification miss; 2026-10-30 separate novel mixed assessment Q1 wrong (C instead of B), while Q2 (liver glycogen phosphorylase) and Q3 (glycerol gluconeogenesis) correct.
+First observed: 2026-10-30
+Last observed: 2026-10-30
+Remediation: Contrast which direction each pathway moves carbon and which process creates/breaks glycogen versus creates free glucose. Require student to produce the three terms and predict consequences from memory rather than repeat old multiple-choice stems.
+Retest strategy: On a later day, short closed-book no-choice unfamiliar liver glucose-handling scenario; ask student to explain effect of selective impairment of glycogen synthesis while glycogen breakdown and gluconeogenesis remain operational. Verify correct causal differentiation.
+Anki needed: Not yet — retest after concise targeted review; consider one compact contrast card only if still missed.
+Anki card ID:
+Resolution evidence:
