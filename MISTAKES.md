@@ -244,14 +244,14 @@ Unit: 1
 Chapter/objective: Chapter 4, Lesson 5 — U1-C4-L5-O1
 Status: CONFIRMED
 Priority: Medium
-Root cause: terminology confusion / causal-direction confusion (exact cause not yet independently explained)
+Root cause: terminology confusion / missing substrate-limit reasoning in causal predictions. Pathway definitions can be recalled, but naming and reasoning were inconsistent in a new liver scenario.
 Typical error: During first-pass Lesson 5, selected gluconeogenesis instead of glycogenesis for storing glucose as glycogen; in a separate new-context Chapter 4 mixed test, chose that glycogen breakdown must increase to manufacture glycogen when glycogen synthesis is selectively impaired.
 Correct model: Glycogenesis assembles glucose into glycogen for storage. Glycogenolysis mobilizes glycogen by breaking it down. Gluconeogenesis creates new glucose from noncarbohydrate precursors. A selective glycogenesis defect reduces storage capacity, without necessarily disabling gluconeogenesis.
-Evidence/occurrences: 2026-10-30 Lesson 5 first-pass checkpoint Chunk 1 storage classification miss; 2026-10-30 separate novel mixed assessment Q1 wrong (C instead of B), while Q2 (liver glycogen phosphorylase) and Q3 (glycerol gluconeogenesis) correct.
+Evidence/occurrences: 2026-10-30 Lesson 5 first-pass checkpoint Chunk 1 storage classification miss; 2026-10-30 separate novel mixed assessment Q1 wrong (C instead of B), while Q2 (liver glycogen phosphorylase) and Q3 (glycerol gluconeogenesis) correct. 2026-10-30 Chat 03 closed-book free-response: correctly named basic directions of glycogenesis, glycogenolysis, and gluconeogenesis; unfamiliar liver scenario 1/3 reasoning elements fully correct—incorrectly predicted sustained glycogen-derived glucose despite nearly depleted stores, mislabeled gluconeogenesis as glycogenesis when naming new glucose production from noncarbohydrate sources, but correctly recognized insufficient glycogen prevents fully replacing the separate pathway. Persistent mixed-context error; remains CONFIRMED.
 First observed: 2026-10-30
 Last observed: 2026-10-30
-Remediation: Contrast which direction each pathway moves carbon and which process creates/breaks glycogen versus creates free glucose. Require student to produce the three terms and predict consequences from memory rather than repeat old multiple-choice stems.
-Retest strategy: On a later day, short closed-book no-choice unfamiliar liver glucose-handling scenario; ask student to explain effect of selective impairment of glycogen synthesis while glycogen breakdown and gluconeogenesis remain operational. Verify correct causal differentiation.
-Anki needed: Not yet — retest after concise targeted review; consider one compact contrast card only if still missed.
-Anki card ID:
+Remediation: Targeted correction given 2026-10-30: glycogenesis stores glucose as glycogen; glycogenolysis mobilizes existing glycogen and is substrate-limited when stores are depleted; gluconeogenesis supplies glucose from glycerol, lactate, and certain amino acids. No immediate re-test of corrected stem.
+Retest strategy: In Chat 02 cumulative Chapter 4 retrieval no earlier than 2026-11-02, use one unfamiliar no-choice liver energy-state or substrate-availability scenario; require naming the correct pathway and predicting flux with limited substrate. Do not repeat prior drug/depleted-store or selective glycogenesis-impairment stems. Grade independent causal chain; do not infer resolution from immediate correction.
+Anki needed: Yes — one selective no-choice substrate-limitation prediction card added after recurrent free-response application error; no prior glycogen-pathway card in pending.tsv.
+Anki card ID: tag m014, added 2026-10-30 to anki/pending.tsv
 Resolution evidence:
