@@ -1,6 +1,6 @@
 # Mastery Matrix
 
-Last updated: 2026-10-31
+Last updated: 2026-11-01
 Status: UNIT 1 — CHAPTER 4 LESSONS 1–8 FIRST-PASS PRACTICED; CUMULATIVE RETRIEVAL NEXT
 
 ## Scale
@@ -18,7 +18,7 @@ Mastery is based on demonstrated closed-book performance, not reading completion
 | Unit | Chapters | Current mastery | Evidence |
 |---|---|---:|---|
 | Unit 1 | 1–4 | 8 of 48 objectives at ≥3; 0 still at 0 | Chapter 4 all eight lessons first-pass practised; Lessons 5–8 changed-context MCQ 11/12 (Oct 30), with one recurring glycogen storage distinction, official WileyPLUS/practice completion and full unit readiness unverified |
-| Unit 2 | 5–8 | 0 | Not studied |
+| Unit 2 | 5–8 | 0 of 59 objectives at ≥1 | Official 21 lessons/59 objectives mapped Nov 1; Chapter 5 Lessons 1–4 read (self-report), not tested |
 | Unit 3 | 9–12 | 0 | Not studied |
 | Unit 4 | 13–15 | 0 | Not studied |
 | Unit 5 | 16–19 | 0 | Not studied |
@@ -115,6 +115,90 @@ User completed all Lesson 4 first-pass MCQ checkpoints 19/21 (4/5 ATP coupling, 
 ### Chapter 4 Lessons 1–3 — Cross-lesson closed-book MCQ (2026-10-23)
 
 Score 8/9 (88.9%), novel one-best-answer scenarios. Correct Q1–Q8; incorrect Q9 (activated B→C step in A→B→C→D). The two prior Lesson 2 exergonic/endergonic misses were correctly solved in changed contexts (anabolic synthesis with net input = endergonic, products below reactants = exergonic despite activation barrier); energy coupling also correct. Enzyme catalytic efficiency Q5 correct, reversible catalysis Q6 correct, blocked-step bypass Q7 correct, loss of end-product inhibition Q8 correct. Q9 chose rate activation necessarily changes net energy difference rather than B initially falling and D formation increasing; incorrect mechanism separating rate/flux from reactant-product energy. MCQ application evidence strengthened but objective levels 1 for U1-C4-L2-O1–O3 and U1-C4-L3-O1–O4 remain until independent explanations are demonstrated; L1-O1 retains level 3. No graded or WileyPLUS completion inferred. Ready to start Lesson 4, with one later changed-context retest of Q9 mechanism.
+
+
+## Unit 2 — Chapters 5–8 (official objectives mapped 2026-11-01)
+
+The 59 objectives below come from the official chapter Study Guide pages. All currently have **level 0 (no demonstrated mastery recorded)**. Reading is separately noted in `units/U02.md` and does not automatically raise mastery. No Unit 2 WileyPLUS or graded activity is recorded complete.
+
+### Chapter 5
+
+| ID | Official objective | Mastery | Evidence |
+|---|---|---:|---|
+| U2-C5-L1-O1 | Explain the concept of selective permeability. | 0 | Not assessed; see units/U02.md |
+| U2-C5-L2-O1 | Distinguish between a concentration gradient and an electrical gradient. | 0 | Not assessed; see units/U02.md |
+| U2-C5-L3-O1 | Distinguish between passive processes and active processes. | 0 | Not assessed; see units/U02.md |
+| U2-C5-L4-O1 | Define diffusion. | 0 | Not assessed; see units/U02.md |
+| U2-C5-L4-O2 | Distinguish simple diffusion from facilitated diffusion. | 0 | Not assessed; see units/U02.md |
+| U2-C5-L4-O3 | Explain the significance of osmosis. | 0 | Not assessed; see units/U02.md |
+| U2-C5-L4-O4 | Compare a solution’s osmolarity to its tonicity. | 0 | Not assessed; see units/U02.md |
+| U2-C5-L5-O1 | Compare primary active transport and secondary active transport. | 0 | Not assessed; see units/U02.md |
+| U2-C5-L5-O2 | Describe the functional significance of the Na+/K+ ATPase. | 0 | Not assessed; see units/U02.md |
+| U2-C5-L5-O3 | Provide specific examples of carrier proteins that mediate secondary active transport. | 0 | Not assessed; see units/U02.md |
+| U2-C5-L6-O1 | Describe the different types of endocytosis. | 0 | Not assessed; see units/U02.md |
+| U2-C5-L6-O2 | Explain how exocytosis occurs. | 0 | Not assessed; see units/U02.md |
+| U2-C5-L7-O1 | Define transepithelial transport. | 0 | Not assessed; see units/U02.md |
+| U2-C5-L7-O2 | Describe the difference between absorption and secretion. | 0 | Not assessed; see units/U02.md |
+| U2-C5-L7-O3 | Explain how transcytosis occurs. | 0 | Not assessed; see units/U02.md |
+
+### Chapter 6
+
+| ID | Official objective | Mastery | Evidence |
+|---|---|---:|---|
+| U2-C6-L1-O1 | Describe the different ways that cells can communicate with one another. | 0 | Not assessed; see units/U02.md |
+| U2-C6-L2-O1 | Compare the three main types of extracellular chemical messengers. | 0 | Not assessed; see units/U02.md |
+| U2-C6-L2-O2 | Explain the difference between water-soluble extracellular messengers and lipid-soluble extracellular messengers. | 0 | Not assessed; see units/U02.md |
+| U2-C6-L2-O3 | Describe how extracellular messengers reach their target cells. | 0 | Not assessed; see units/U02.md |
+| U2-C6-L3-O1 | Discuss the properties of messenger–receptor binding. | 0 | Not assessed; see units/U02.md |
+| U2-C6-L3-O2 | Describe where receptors may be located in a target cell. | 0 | Not assessed; see units/U02.md |
+| U2-C6-L3-O3 | Explain how receptors are regulated. | 0 | Not assessed; see units/U02.md |
+| U2-C6-L4-O1 | Identify the components of a signal transduction pathway. | 0 | Not assessed; see units/U02.md |
+| U2-C6-L4-O2 | Explain how signaling through intracellular receptors occurs. | 0 | Not assessed; see units/U02.md |
+| U2-C6-L4-O3 | Discuss the various ways by which signaling through plasma membrane receptors can occur. | 0 | Not assessed; see units/U02.md |
+| U2-C6-L5-O1 | Compare control of body functions by the nervous and endocrine systems. | 0 | Not assessed; see units/U02.md |
+
+### Chapter 7
+
+| ID | Official objective | Mastery | Evidence |
+|---|---|---:|---|
+| U2-C7-L1-O1 | Describe the subdivisions of the nervous system. | 0 | Not assessed; see units/U02.md |
+| U2-C7-L1-O2 | Explain the functions of the nervous system. | 0 | Not assessed; see units/U02.md |
+| U2-C7-L2-O1 | Discuss the functions of neurons. | 0 | Not assessed; see units/U02.md |
+| U2-C7-L2-O2 | List the roles of neuroglia. | 0 | Not assessed; see units/U02.md |
+| U2-C7-L2-O3 | Explain the importance of myelination. | 0 | Not assessed; see units/U02.md |
+| U2-C7-L2-O4 | Describe the ability to repair neurons in the CNS and PNS. | 0 | Not assessed; see units/U02.md |
+| U2-C7-L3-O1 | Describe the basic types of ion channels involved in neuron function. | 0 | Not assessed; see units/U02.md |
+| U2-C7-L3-O2 | Explain the factors that determine the resting membrane potential. | 0 | Not assessed; see units/U02.md |
+| U2-C7-L3-O3 | Discuss the importance of graded potentials. | 0 | Not assessed; see units/U02.md |
+| U2-C7-L3-O4 | Outline the events that occur during an action potential. | 0 | Not assessed; see units/U02.md |
+| U2-C7-L3-O5 | Describe how action potentials are propagated. | 0 | Not assessed; see units/U02.md |
+| U2-C7-L4-O1 | Explain the events of signal transmission at a chemical synapse. | 0 | Not assessed; see units/U02.md |
+| U2-C7-L4-O2 | Describe the action of excitatory and inhibitory neurotransmitters. | 0 | Not assessed; see units/U02.md |
+| U2-C7-L4-O3 | Identify the two main types of neurotransmitter receptors. | 0 | Not assessed; see units/U02.md |
+| U2-C7-L4-O4 | List the different ways that neurotransmitters can be removed from a synapse. | 0 | Not assessed; see units/U02.md |
+| U2-C7-L4-O5 | Explain the importance of presynaptic modulation. | 0 | Not assessed; see units/U02.md |
+| U2-C7-L5-O1 | Describe the functions of the different types of small-molecule neurotransmitters. | 0 | Not assessed; see units/U02.md |
+| U2-C7-L5-O2 | Provide specific examples of neuropeptides. | 0 | Not assessed; see units/U02.md |
+| U2-C7-L6-O1 | Identify the various types of neural circuits in the nervous system. | 0 | Not assessed; see units/U02.md |
+
+### Chapter 8
+
+| ID | Official objective | Mastery | Evidence |
+|---|---|---:|---|
+| U2-C8-L1-O1 | Identify the protective coverings of the spinal cord. | 0 | Not assessed; see units/U02.md |
+| U2-C8-L1-O2 | Discuss the importance of spinal nerves. | 0 | Not assessed; see units/U02.md |
+| U2-C8-L1-O3 | Explain how the spinal cord processes sensory input and motor output. | 0 | Not assessed; see units/U02.md |
+| U2-C8-L1-O4 | Describe the functions of the major sensory and motor tracts of the spinal cord. | 0 | Not assessed; see units/U02.md |
+| U2-C8-L1-O5 | List the functional components of a spinal reflex arc. | 0 | Not assessed; see units/U02.md |
+| U2-C8-L2-O1 | Explain the various ways that the brain is protected. | 0 | Not assessed; see units/U02.md |
+| U2-C8-L2-O2 | Discuss why the brain needs a continuous supply of oxygen and glucose. | 0 | Not assessed; see units/U02.md |
+| U2-C8-L2-O3 | Describe the importance of cranial nerves. | 0 | Not assessed; see units/U02.md |
+| U2-C8-L2-O4 | Discuss the functions of the different parts of the brain. | 0 | Not assessed; see units/U02.md |
+| U2-C8-L2-O5 | Identify the roles of the sensory, motor, and association areas of the cerebral cortex. | 0 | Not assessed; see units/U02.md |
+| U2-C8-L3-O1 | Identify the physiological changes that occur during NREM and REM sleep. | 0 | Not assessed; see units/U02.md |
+| U2-C8-L3-O2 | Outline the neural pathways involved in comprehension and expression of language. | 0 | Not assessed; see units/U02.md |
+| U2-C8-L3-O3 | Describe the generation of emotional behaviors. | 0 | Not assessed; see units/U02.md |
+| U2-C8-L3-O4 | Compare the formation of short-term and long-term memories. | 0 | Not assessed; see units/U02.md |
 
 ## Scope exclusions that affect mastery
 
