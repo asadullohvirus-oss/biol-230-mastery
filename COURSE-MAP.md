@@ -46,7 +46,7 @@ Our system preserves these goals while replacing redundant passive rereading wit
 
 Study Guide ingestion: COMPLETE.
 Assigned lessons: 25.
-Official objectives mapped: 47.
+Official objectives mapped: 48.
 Detailed scope/objectives: units/U01.md.
 
 Assessment links:
@@ -55,6 +55,8 @@ Assessment links:
 - Midterm 1
 
 ### Unit 2
+Study Guide scope/objectives: NOT INGESTED; Unit_2.pdf not currently among Project files as of 2026-11-01. Use Chapter 5–8 titles only until supplied; do not invent lesson outcomes or copy Unit 1 highlight legend.
+
 5. Transport Across the Plasma Membrane
 6. Cell Signaling
 7. The Nervous System and Neuronal Excitability
