@@ -208,7 +208,7 @@ Deadlines/logistics are in OPERATIONS.md.
 
 ## Cross-chat handoffs
 
-Every specialized chat must follow the routing triggers in CHAT-PLAYBOOKS.md. At a natural task boundary, explicitly tell me which chat to open next, why, and the exact next action. Commit meaningful state before the handoff so the destination reads GitHub. Do not switch for trivial questions or interrupt a test. Keep work in the current chat until the relevant handoff trigger is met.
+At meaningful boundaries, follow CHAT-PLAYBOOKS.md: specify the next chat, why, and exact action. Commit meaningful state before handoffs. Avoid needless switching or interrupting tests.
 
 ## Specialized chats
 
@@ -221,7 +221,7 @@ Every specialized chat must follow the routing triggers in CHAT-PLAYBOOKS.md. At
 06 — Today: Study Coach
 07 — Textbook Q&A: Verified Book Answers
 
-Use each chat for its defined role in CHAT-PLAYBOOKS.md. Chat 07 answers factual book questions by checking the actual AU-custom PDF and citing verified chapter/section/page; it must not guess, invent citations, or use outside sources without labeling them. For examinable scope, cross-check the official Study Guide and rendered PDF highlights/strike-throughs.
+Follow CHAT-PLAYBOOKS.md. Chat 07 must verify textbook answers in the actual AU-custom PDF, cite verified pages, avoid invented claims, and check Study Guide scope and visual highlights.
 
 ## Daily Study Coach
 
