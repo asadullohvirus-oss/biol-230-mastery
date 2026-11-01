@@ -1,7 +1,7 @@
 # Mastery Matrix
 
 Last updated: 2026-11-01
-Status: UNIT 1 — CHAPTER 4 LESSONS 1–8 FIRST-PASS PRACTICED; CUMULATIVE RETRIEVAL NEXT
+Status: UNIT 1 FIRST-PASS PRACTICED; UNIT 2 CH5 L1–4 MCQ CHECKPOINT 16/20; RETRIEVAL GAPS PENDING
 
 ## Scale
 
@@ -18,7 +18,7 @@ Mastery is based on demonstrated closed-book performance, not reading completion
 | Unit | Chapters | Current mastery | Evidence |
 |---|---|---:|---|
 | Unit 1 | 1–4 | 8 of 48 objectives at ≥3; 0 still at 0 | Chapter 4 all eight lessons first-pass practised; Lessons 5–8 changed-context MCQ 11/12 (Oct 30), with one recurring glycogen storage distinction, official WileyPLUS/practice completion and full unit readiness unverified |
-| Unit 2 | 5–8 | 0 of 59 objectives at ≥1 | Official 21 lessons/59 objectives mapped Nov 1; Chapter 5 Lessons 1–4 read (self-report), not tested |
+| Unit 2 | 5–8 | 6 of 59 objectives at ≥1 | 2026-11-01: Ch5 Lessons 1–4 closed-book 20 one-best-answer MCQs scored 16/20; six objectives show selected-answer recognition/application, L4-O4 lacks correct evidence; no independent explanations or WileyPLUS completion verified |
 | Unit 3 | 9–12 | 0 | Not studied |
 | Unit 4 | 13–15 | 0 | Not studied |
 | Unit 5 | 16–19 | 0 | Not studied |
@@ -119,19 +119,19 @@ Score 8/9 (88.9%), novel one-best-answer scenarios. Correct Q1–Q8; incorrect Q
 
 ## Unit 2 — Chapters 5–8 (official objectives mapped 2026-11-01)
 
-The 59 objectives below come from the official chapter Study Guide pages. All currently have **level 0 (no demonstrated mastery recorded)**. Reading is separately noted in `units/U02.md` and does not automatically raise mastery. No Unit 2 WileyPLUS or graded activity is recorded complete.
+The 59 objectives below come from the official chapter Study Guide pages. Reading is recorded separately in `units/U02.md`; level changes require demonstrated evidence. A 2026-11-01 20-question closed-book selected-answer checkpoint provided initial recognition/application for six Chapter 5 objectives, not independent explanation. No Unit 2 WileyPLUS or graded activity is recorded complete.
 
 ### Chapter 5
 
 | ID | Official objective | Mastery | Evidence |
 |---|---|---:|---|
-| U2-C5-L1-O1 | Explain the concept of selective permeability. | 0 | Not assessed; see units/U02.md |
-| U2-C5-L2-O1 | Distinguish between a concentration gradient and an electrical gradient. | 0 | Not assessed; see units/U02.md |
-| U2-C5-L3-O1 | Distinguish between passive processes and active processes. | 0 | Not assessed; see units/U02.md |
-| U2-C5-L4-O1 | Define diffusion. | 0 | Not assessed; see units/U02.md |
-| U2-C5-L4-O2 | Distinguish simple diffusion from facilitated diffusion. | 0 | Not assessed; see units/U02.md |
-| U2-C5-L4-O3 | Explain the significance of osmosis. | 0 | Not assessed; see units/U02.md |
-| U2-C5-L4-O4 | Compare a solution’s osmolarity to its tonicity. | 0 | Not assessed; see units/U02.md |
+| U2-C5-L1-O1 | Explain the concept of selective permeability. | 1 | 2026-11-01: Lesson 1 3/4 (Q1–Q3 correct on polarity, ion barrier, selective channels; Q4 chose lack of kinetic energy rather than hydrophobic membrane barrier for large polar solute); corrected; recognition-level MCQ application only |
+| U2-C5-L2-O1 | Distinguish between a concentration gradient and an electrical gradient. | 1 | 2026-11-01: Lesson 2 3/4 (Q5, Q7, Q8 correct Na+ joint forces/electrical-only/opposing-gradient net force; Q6 selected both K+ gradients inward, missed concentration outward vs electrical inward); corrected; level 1 MCQ evidence only |
+| U2-C5-L3-O1 | Distinguish between passive processes and active processes. | 1 | 2026-11-01: Lesson 3 4/4 (Q9–Q12 correct, carrier down-gradient, ATP-driven uphill, ATP-dependent vesicles, diffusion despite ATP suppression). Closed-book one-best-answer recognition/application; independent verbal distinction not yet shown |
+| U2-C5-L4-O1 | Define diffusion. | 1 | 2026-11-01: Q13–Q14 correct on random movement at diffusion equilibrium and inverse effect of membrane thickness in Fick's Law. MCQ-level knowledge; independent definition untested |
+| U2-C5-L4-O2 | Distinguish simple diffusion from facilitated diffusion. | 1 | 2026-11-01: Q15–Q17 correct on channel-mediated passive transport, carrier saturation/transport maximum and competition. MCQ application only; independent comparison untested |
+| U2-C5-L4-O3 | Explain the significance of osmosis. | 1 | 2026-11-01: Q18 correctly predicted shrinkage/crenation in hypertonic surroundings; Q19 erroneously predicted no net water movement in hypotonic surroundings rather than water influx/swelling/hemolysis. Corrected; inconsistent MCQ application, independent prediction pending |
+| U2-C5-L4-O4 | Compare a solution’s osmolarity to its tonicity. | 0 | 2026-11-01: First-pass reading reported, but Q20 incorrect: selected that osmolarity counts only nonpenetrating solutes; correct model osmolarity counts all dissolved particles while tonicity depends on nonpenetrating solutes and cell water balance. No positive objective-specific demonstration yet; keep at 0 pending new-context check |
 | U2-C5-L5-O1 | Compare primary active transport and secondary active transport. | 0 | Not assessed; see units/U02.md |
 | U2-C5-L5-O2 | Describe the functional significance of the Na+/K+ ATPase. | 0 | Not assessed; see units/U02.md |
 | U2-C5-L5-O3 | Provide specific examples of carrier proteins that mediate secondary active transport. | 0 | Not assessed; see units/U02.md |
