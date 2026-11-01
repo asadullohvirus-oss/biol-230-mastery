@@ -1,7 +1,7 @@
 # Progress Dashboard
 
 Updated: 2026-11-01 (user-reported milestone)
-Status: QUIZ 1 TAKEN; UNIT 2 TEXTBOOK EXCERPT RECEIVED; OFFICIAL STUDY GUIDE STILL REQUIRED
+Status: QUIZ 1 TAKEN; UNIT 2 OFFICIAL STUDY GUIDE CHAPTERS 5–8 INGESTED; CH5 LESSONS 1–4 READ
 
 ## Official course completion vs demonstrated mastery
 - Quiz 1, Unit 1 / Ch 1–4: **attempted November 1, 2026** (user report).
@@ -15,9 +15,9 @@ Status: QUIZ 1 TAKEN; UNIT 2 TEXTBOOK EXCERPT RECEIVED; OFFICIAL STUDY GUIDE STI
 
 ## Academic next step
 - Unit 2 = Chapters 5–8 (Transport Across Plasma Membrane; Cell Signaling; Nervous System/Neuronal Excitability; Central Nervous System).
-- Uploaded **Unit_2.pdf** on November 1 was inspected: it is a marked AU-custom Derrickson textbook extract of Chapters 5–8, not an official Study Guide. Exact assigned lessons, objectives, figure/table requirements and exclusions remain UNKNOWN pending the real Unit 2 Study Guide. Student reports already reading four Chapter 5 lessons; this is reading progress only, not verified mastery.
-- Chat 01 should obtain the actual Unit 2 Study Guide or its lesson/objective pages. Then cross-check uploaded marked textbook extract, map official objectives and exclusions in units/U02.md, and use active recall on the four Chapter 5 lessons already read.
-- Then begin Chapter 5 Lesson 1 according to the official guide. Do not invent official objectives or quiz scope.
+- Official Study Guide pages for Chapters 5–8 were received 2026-11-01 as Ch5/Ch6 HTML ZIP exports and Ch7/Ch8 PDFs. Verified 21 lessons and 59 objectives (Chapter 5: seven lessons, not four). Required figures/tables and explicit omissions mapped in units/U02.md. Separate `Unit_2.pdf` is the marked AU-custom textbook excerpt. Student reports reading Chapter 5 Lessons 1–4 of seven; no mastery or WileyPLUS completion inferred. Unit-level colour-highlight legend still unverified.
+- Chat 01 should start short interactive retention checks on the already-read Chapter 5 Lessons 1–4 within mapped official scope, first Lesson 1 selective permeability, then learn remaining Chapter 5 Lessons 5–7. Route to Chat 02 when independent mechanism/prediction practice is due.
+- Do not increase mastery automatically for reading; use fresh performance evidence. Quiz 1 actual score and pass status remain unreported/unverified.
 
 ## Unit 1 historical learning snapshot
 - Units 1 Ch 1–4 taught/practised in the specialist chats through Oct 30; see units/U01.md and MASTERY.md for objective evidence.
