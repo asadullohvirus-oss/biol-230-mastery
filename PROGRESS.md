@@ -1,7 +1,7 @@
 # Progress Dashboard
 
 Updated: 2026-11-01 (user-reported milestone)
-Status: QUIZ 1 TAKEN; UNIT 2 HANDOFF READY, STUDY GUIDE NOT YET AVAILABLE
+Status: QUIZ 1 TAKEN; UNIT 2 TEXTBOOK EXCERPT RECEIVED; OFFICIAL STUDY GUIDE STILL REQUIRED
 
 ## Official course completion vs demonstrated mastery
 - Quiz 1, Unit 1 / Ch 1–4: **attempted November 1, 2026** (user report).
@@ -15,8 +15,8 @@ Status: QUIZ 1 TAKEN; UNIT 2 HANDOFF READY, STUDY GUIDE NOT YET AVAILABLE
 
 ## Academic next step
 - Unit 2 = Chapters 5–8 (Transport Across Plasma Membrane; Cell Signaling; Nervous System/Neuronal Excitability; Central Nervous System).
-- Official Unit 2 Study Guide is **not among current Project files**; its exact assigned lessons, learning objectives, figure/table requirements and exclusions remain UNKNOWN.
-- Chat 01 should first ingest uploaded Unit_2.pdf (or user-provided official Study Guide text), verify highlighted/excluded scope against AU-custom Derrickson PDF, and create objective map in units/U02.md.
+- Uploaded **Unit_2.pdf** on November 1 was inspected: it is a marked AU-custom Derrickson textbook extract of Chapters 5–8, not an official Study Guide. Exact assigned lessons, objectives, figure/table requirements and exclusions remain UNKNOWN pending the real Unit 2 Study Guide. Student reports already reading four Chapter 5 lessons; this is reading progress only, not verified mastery.
+- Chat 01 should obtain the actual Unit 2 Study Guide or its lesson/objective pages. Then cross-check uploaded marked textbook extract, map official objectives and exclusions in units/U02.md, and use active recall on the four Chapter 5 lessons already read.
 - Then begin Chapter 5 Lesson 1 according to the official guide. Do not invent official objectives or quiz scope.
 
 ## Unit 1 historical learning snapshot
