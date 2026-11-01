@@ -55,7 +55,7 @@ Assessment links:
 - Midterm 1
 
 ### Unit 2
-Study Guide scope/objectives: NOT INGESTED as of 2026-11-01. The uploaded Unit_2.pdf is a 147-page highlighted AU-custom Derrickson textbook EXTRACT for chapters 5–8 (printed pp. 128–274), not the official Unit 2 Study Guide. The actual Study Guide (including its Chapter 5 four-lesson mapping, objectives and unit-specific highlight legend) remains needed. Do not invent official lesson outcomes or copy Unit 1 highlight legend; see units/U02.md.
+Study Guide chapter scope/objectives: INGESTED 2026-11-01 from official AU Chapter 5 and 6 Study Guide HTML ZIP files and Chapter 7 and 8 Study Guide PDFs. Total 21 lessons, 59 objective rows. Chapter 5 has seven official lessons; the student reports reading Lessons 1–4. Explicit figures/tables/exclusions are in units/U02.md. The broader Unit 2 colour-highlight legend remains unverified; do not copy Unit 1 legend. The uploaded Unit_2.pdf is a separate marked AU-custom textbook extract used for detailed inclusion/exclusion.
 
 5. Transport Across the Plasma Membrane
 6. Cell Signaling
