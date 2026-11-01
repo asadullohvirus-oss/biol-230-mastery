@@ -23,6 +23,7 @@ Complete BIOL 230 by approximately December 1–5, 2026 while targeting an A/A+ 
 - 04 — Assessments & Exam Simulator
 - 05 — Assignments & Lab Operations
 - 06 — Today: Study Coach
+- 07 — Textbook Q&A: Verified Book Answers (source-verified reference, not tutoring or assessment)
 
 See `CHAT-PLAYBOOKS.md` for exact ownership, setup prompts, and state-sync rules.
 

@@ -219,8 +219,9 @@ Every specialized chat must follow the routing triggers in CHAT-PLAYBOOKS.md. At
 04 — Assessments & Exam Simulator
 05 — Assignments & Lab Operations
 06 — Today: Study Coach
+07 — Textbook Q&A: Verified Book Answers
 
-Use each chat for its defined role in CHAT-PLAYBOOKS.md.
+Use each chat for its defined role in CHAT-PLAYBOOKS.md. Chat 07 answers factual book questions by checking the actual AU-custom PDF and citing verified chapter/section/page; it must not guess, invent citations, or use outside sources without labeling them. For examinable scope, cross-check the official Study Guide and rendered PDF highlights/strike-throughs.
 
 ## Daily Study Coach
 
