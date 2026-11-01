@@ -1,6 +1,6 @@
 # Operations and Critical Dependencies
 
-Last updated: 2026-09-22
+Last updated: 2026-11-01
 
 ## Course contract
 
@@ -23,7 +23,7 @@ myAU:
 
 ## Examination operations
 
-All three exams require advance booking/request.
+All three exams require advance booking/request. AU currently requires two steps: book an appointment with an AU-approved invigilator **at least 10 days before writing**, then submit the Examination Request Form in **myAU** at least 10 days before writing. The chosen date must be within the course contract. These are official minimum lead times; allow additional planning buffer.
 
 AU's suggested schedule requests each exam well before the intended writing window:
 - Midterm 1 request around completion of Unit 2,
@@ -67,7 +67,20 @@ Planning safeguard:
 Treat the Lab Assignment as included in "required course assignments" until an authoritative course/instructor clarification says otherwise.
 
 Internal planning rule:
-Aim to trigger booking/request work approximately 14 days before the desired writing date, then replace with the exact official requirement once confirmed for this registration.
+The official minimum is 10 days for ProctorU or an already-approved in-person invigilator; prefer **14+ days** as an internal safety margin. New/unapproved invigilators may require 30+ days or longer. Official AU sources: https://www.athabascau.ca/support-services/exam-services-support/booking-exams.html and https://www.athabascau.ca/support-services/exam-services-support/using-proctoru-for-online-exams.html.
+
+## Midterm booking details verified November 1, 2026
+
+- BIOL 230 offers supervised online exams through ProctorU (from home) or at an AU-approved in-person testing centre supporting online examinations.
+- ProctorU invigilator ID for the myAU request form: **3278826**.
+- **Step 1:** arrange/confirm ProctorU or approved-centre exam appointment.
+- **Step 2:** submit myAU Examination Request with correct exam selection (Midterm 1 or Midterm 2), invigilator and declared writing date; do so at least 10 days ahead.
+- ProctorU requires compatible computer/webcam/microphone, identification matching myAU, secure exam software and quiet workspace; fees apply. Test equipment before writing.
+- Midterm 1: Units 1–2, Chapters 1–8, 100 MCQ, 120 minutes, 18% of final grade, ≥50% required.
+- Midterm 2: Units 3–4, Chapters 9–15, same format/weight/minimum.
+- The current AU calendar indicates no general tutor permission is needed merely to request an exam. Do not mistake the Study Guide's recommended Quiz 2 → A1 → Midterm 1 ordering for a verified booking prerequisite. Independently confirm any specific course-release restrictions in Brightspace.
+- AU policies may impose different lead times for accessibility accommodations (≥20 days) or a proposed new invigilator; check the current rules when applicable.
+- This entry records procedural verification only. **Neither midterm has been booked or written according to current GitHub state**.
 
 ## Home Lab Kit critical path
 
