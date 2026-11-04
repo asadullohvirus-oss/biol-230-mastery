@@ -1,6 +1,6 @@
 # Mistake Ledger
 
-Last updated: 2026-10-31
+Last updated: 2026-11-04
 Status: ACTIVE
 
 Track meaningful conceptual errors only.
@@ -270,5 +270,39 @@ Last observed: 2026-10-31
 Remediation: Corrected distinction in the cumulative-test feedback. Avoid immediate repetitive drilling while user pauses study.
 Retest strategy: At a later session, ask one unfamiliar no-choice lipid fate chain; require separate naming of triglyceride cleavage, fatty-acid breakdown, and resulting acetyl CoA fate. Do not repeat prior test stems.
 Anki needed: Not yet — consider a single pathway chain card if an independent retest remains incorrect.
+Anki card ID:
+Resolution evidence:
+
+### M016 — K+ concentration versus electrical gradient directional reasoning
+Unit: 2
+Chapter/objective: Chapter 5 Lesson 2 — U2-C5-L2-O1
+Status: CONFIRMED
+Priority: High
+Root cause: causal-direction error / sign of electrical force versus concentration direction
+Typical error: Treats potassium movement as inward for both forces at a negative-inside resting cell; when cell interior is experimentally made positive, still assigns concentration-driven K+ motion inward and electrical motion outward.
+Correct model: K+ is more concentrated intracellularly, so its concentration gradient favours outward movement. A negative inside attracts K+ inward; a positive inside repels K+ outward. Electrochemical force combines both, with polarity possibly reinforcing or opposing the concentration force.
+Evidence/occurrences: 2026-11-01 initial Chapter 5 L2 MCQ Q6 incorrect (A vs C); 2026-11-04 targeted changed-context Q2 incorrect (selected B vs D) despite intervening explanation. Repeated selected-answer directional error.
+First observed: 2026-11-01
+Last observed: 2026-11-04
+Remediation: Contrast K+ concentration direction (inside high → outside low) with charge attraction/repulsion; supply two independent arrows before combining; immediate first-pass correction given in Chat 01.
+Retest strategy: Chat 03 after Chapter 5 Lesson 5 chunk; request a short unprompted K+ concentration/electrical-force arrow explanation in an unfamiliar membrane-potential state, then delayed novel prediction in Chat 02. Avoid repeating prior stems.
+Anki needed: Not yet — decide in Chat 03 based on independent explanation and retention.
+Anki card ID:
+Resolution evidence:
+
+### M017 — Hypotonic osmosis and osmolarity-versus-tonicity distinction
+Unit: 2
+Chapter/objectives: Chapter 5 Lesson 4 — U2-C5-L4-O3 and U2-C5-L4-O4
+Status: CONFIRMED
+Priority: High
+Root cause: causal-direction error / terminology and effective-solute confusion
+Typical error: Predicts no net water movement or water exit when external fluid is diluted (hypotonic); assumes osmolarity counts only nonpenetrating solutes or that equal total particle concentration with a freely penetrating external solute prevents swelling.
+Correct model: Osmolarity counts all dissolved particles. Tonicity predicts cell-volume change from nonpenetrating solutes. When extracellular nonpenetrating solutes are reduced relative to intracellular nonpenetrating solutes, net water enters and cells swell; external solution can be isoosmotic (equal total particles) but hypotonic (fewer effective nonpenetrating particles).
+Evidence/occurrences: 2026-11-01 initial Chapter 5 L4 Q19 and Q20 wrong; 2026-11-04 targeted new-context Q3 chose water exit after external dilution (correct inward), Q4 chose hyperosmotic/isotonic for equal 300 mOsM outside pure freely penetrating urea vs inside nonpenetrating (correct isoosmotic/hypotonic and swelling). Distinct mistakes repeated despite explanation.
+First observed: 2026-11-01
+Last observed: 2026-11-04
+Remediation: First-pass correction in Chat 01: separately count total particle concentration for osmolarity, then count nonpenetrating particles for effective tonicity; predict water direction toward higher effective nonpenetrating-solute concentration and resulting cell-volume change.
+Retest strategy: Chat 03 after Chapter 5 Lesson 5 first-pass checkpoint; independent no-choice explanation with two new media having equal total osmolarity but different nonpenetrating fractions; then delayed transfer in Chat 02. Avoid repeating prior urea/erythrocyte and dilution stems.
+Anki needed: Not yet — consider one targeted causal-direction card only if independent retrieval remains faulty.
 Anki card ID:
 Resolution evidence:
