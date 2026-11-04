@@ -281,13 +281,13 @@ Priority: High
 Root cause: causal-direction error / sign of electrical force versus concentration direction
 Typical error: Treats potassium movement as inward for both forces at a negative-inside resting cell; when cell interior is experimentally made positive, still assigns concentration-driven K+ motion inward and electrical motion outward.
 Correct model: K+ is more concentrated intracellularly, so its concentration gradient favours outward movement. A negative inside attracts K+ inward; a positive inside repels K+ outward. Electrochemical force combines both, with polarity possibly reinforcing or opposing the concentration force.
-Evidence/occurrences: 2026-11-01 initial Chapter 5 L2 MCQ Q6 incorrect (A vs C); 2026-11-04 targeted changed-context Q2 incorrect (selected B vs D) despite intervening explanation. Repeated selected-answer directional error.
+Evidence/occurrences: 2026-11-01 initial Chapter 5 L2 MCQ Q6 incorrect (A vs C); 2026-11-04 targeted changed-context Q2 incorrect (selected B vs D) despite intervening explanation. 2026-11-04 Chat 03 independent new-context free response: 1/3 reasoning components. Said K+ concentration force inward 'due to charge' (incorrect: high-inside K+ diffuses outward); correctly named inward electrical attraction for negative-inside cell; did not explain effect of increasing negativity ('vibes'). Persistent causal-direction confusion; CONFIRMED.
 First observed: 2026-11-01
 Last observed: 2026-11-04
-Remediation: Contrast K+ concentration direction (inside high → outside low) with charge attraction/repulsion; supply two independent arrows before combining; immediate first-pass correction given in Chat 01.
-Retest strategy: Chat 03 after Chapter 5 Lesson 5 chunk; request a short unprompted K+ concentration/electrical-force arrow explanation in an unfamiliar membrane-potential state, then delayed novel prediction in Chat 02. Avoid repeating prior stems.
-Anki needed: Not yet — decide in Chat 03 based on independent explanation and retention.
-Anki card ID:
+Remediation: Re-taught separate concentration and electrical-force arrows, then their relative combination: intracellular K+ high drives outward; more negative interior attracts K+ inward more strongly and can reduce net outward movement (possibly reverse it if electrical force dominates). No demonstrated post-correction independent transfer.
+Retest strategy: During next spaced Chat 02 physiology review on/after 2026-11-07, use a new unhinted free-response K+ scenario with separate chemical/electrical arrow predictions and net direction conditional on relative forces. Do not repeat negative-inside strengthening or positive-inside reversal stems.
+Anki needed: Yes — persistent high-yield independent directional error; one nonduplicate prediction card added 2026-11-04.
+Anki card ID: m016 (anki/pending.tsv, 2026-11-04)
 Resolution evidence:
 
 ### M017 — Hypotonic osmosis and osmolarity-versus-tonicity distinction
@@ -298,11 +298,11 @@ Priority: High
 Root cause: causal-direction error / terminology and effective-solute confusion
 Typical error: Predicts no net water movement or water exit when external fluid is diluted (hypotonic); assumes osmolarity counts only nonpenetrating solutes or that equal total particle concentration with a freely penetrating external solute prevents swelling.
 Correct model: Osmolarity counts all dissolved particles. Tonicity predicts cell-volume change from nonpenetrating solutes. When extracellular nonpenetrating solutes are reduced relative to intracellular nonpenetrating solutes, net water enters and cells swell; external solution can be isoosmotic (equal total particles) but hypotonic (fewer effective nonpenetrating particles).
-Evidence/occurrences: 2026-11-01 initial Chapter 5 L4 Q19 and Q20 wrong; 2026-11-04 targeted new-context Q3 chose water exit after external dilution (correct inward), Q4 chose hyperosmotic/isotonic for equal 300 mOsM outside pure freely penetrating urea vs inside nonpenetrating (correct isoosmotic/hypotonic and swelling). Distinct mistakes repeated despite explanation.
+Evidence/occurrences: 2026-11-01 initial Chapter 5 L4 Q19 and Q20 wrong; 2026-11-04 targeted new-context Q3 chose water exit after external dilution (correct inward), Q4 chose hyperosmotic/isotonic for equal 300 mOsM outside pure freely penetrating urea vs inside nonpenetrating (correct isoosmotic/hypotonic and swelling). 2026-11-04 Chat 03 independent new-context free response: 0/3. For outside 360 mOsm/L total (180 nonpenetrating + 180 penetrating) versus initially 300 nonpenetrating inside, called outside isotonic/isotonic and predicted unchanged cell volume; correct hyperosmotic, hypotonic, and swelling after penetrant equilibration. CONFIRMED.
 First observed: 2026-11-01
 Last observed: 2026-11-04
-Remediation: First-pass correction in Chat 01: separately count total particle concentration for osmolarity, then count nonpenetrating particles for effective tonicity; predict water direction toward higher effective nonpenetrating-solute concentration and resulting cell-volume change.
-Retest strategy: Chat 03 after Chapter 5 Lesson 5 first-pass checkpoint; independent no-choice explanation with two new media having equal total osmolarity but different nonpenetrating fractions; then delayed transfer in Chat 02. Avoid repeating prior urea/erythrocyte and dilution stems.
-Anki needed: Not yet — consider one targeted causal-direction card only if independent retrieval remains faulty.
-Anki card ID:
+Remediation: Re-taught two independent comparisons: total solute (360 outside vs 300 inside) makes exterior initially hyperosmotic; effective nonpenetrating solute (180 outside vs 300 inside) makes it hypotonic, so sustained water entry/swelling follows permeant equilibration. No post-correction independent success yet.
+Retest strategy: During next spaced Chat 02 physiology review on/after 2026-11-07, independently compare total solute vs effective nonpenetrating solute in a different mixed-solute case, predict water movement and cell-volume effect, and explain why. Do not repeat prior 300/360 mixture, pure urea/erythrocyte, or dilution stems.
+Anki needed: Yes — persistent high-yield difference between osmolarity and tonicity; one nonduplicate prediction card added 2026-11-04.
+Anki card ID: m017 (anki/pending.tsv, 2026-11-04)
 Resolution evidence:
