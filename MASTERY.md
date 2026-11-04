@@ -1,7 +1,7 @@
 # Mastery Matrix
 
 Last updated: 2026-11-04
-Status: UNIT 1 FIRST-PASS PRACTICED; UNIT 2 CH5 L1–4 16/20, TARGETED NOVEL 1/4 (PERSISTENT GRADIENT/TONICITY GAPS)
+Status: UNIT 2 CH5 L1–5 FIRST-PASS CHECKED; L5 8/8; M016/M017 STILL CONFIRMED
 
 ## Scale
 
@@ -18,7 +18,7 @@ Mastery is based on demonstrated closed-book performance, not reading completion
 | Unit | Chapters | Current mastery | Evidence |
 |---|---|---:|---|
 | Unit 1 | 1–4 | 8 of 48 objectives at ≥3; 0 still at 0 | Chapter 4 all eight lessons first-pass practised; Lessons 5–8 changed-context MCQ 11/12 (Oct 30), with one recurring glycogen storage distinction, official WileyPLUS/practice completion and full unit readiness unverified |
-| Unit 2 | 5–8 | 6 of 59 objectives at ≥1 | Ch5 Lessons 1–4 initial 16/20 (Nov 1); targeted changed-context 1/4 (Nov 4): selective permeability corrected, but K+ gradient direction, hypotonic water movement, and osmolarity–tonicity confusion persist; L4-O4 still 0. No independent explanations/WileyPLUS completion verified |
+| Unit 2 | 5–8 | 9 of 59 objectives at ≥1 | Ch5 Lessons 1–4 initial 16/20 (Nov 1), targeted 1/4 (Nov 4) with M016/M017 confirmed; L5 active transport first-pass 8/8 (Nov 4), three objectives level 1. L4-O4 still 0; independent explanations and WileyPLUS completion unverified |
 | Unit 3 | 9–12 | 0 | Not studied |
 | Unit 4 | 13–15 | 0 | Not studied |
 | Unit 5 | 16–19 | 0 | Not studied |
@@ -132,9 +132,9 @@ The 59 objectives below come from the official chapter Study Guide pages. Readin
 | U2-C5-L4-O2 | Distinguish simple diffusion from facilitated diffusion. | 1 | 2026-11-01: Q15–Q17 correct on channel-mediated passive transport, carrier saturation/transport maximum and competition. MCQ application only; independent comparison untested |
 | U2-C5-L4-O3 | Explain the significance of osmosis. | 1 | 2026-11-01 Q18 correct hypertonic shrinkage, Q19 wrong hypotonic swelling. 2026-11-04 targeted Q3 again wrong: selected water exit with extracellular dilution instead of water influx/swelling. Recurring hypotonic water-direction gap tracked M017; MCQ recognition only and independently predicted direction not yet reliable |
 | U2-C5-L4-O4 | Compare a solution’s osmolarity to its tonicity. | 0 | 2026-11-01 Q20 wrong: osmolarity falsely defined using only nonpenetrating particles. 2026-11-04 targeted Q4 incorrect selected A (external 300 mOsM entirely penetrating urea versus intracellular 300 mOsM nonpenetrating) instead of isoosmotic yet hypotonic, swelling. Persistent total-particles-versus-effective-tonicity distinction tracked M017; still lacks correct objective-specific demonstration, level 0 retained |
-| U2-C5-L5-O1 | Compare primary active transport and secondary active transport. | 0 | Not assessed; see units/U02.md |
-| U2-C5-L5-O2 | Describe the functional significance of the Na+/K+ ATPase. | 0 | Not assessed; see units/U02.md |
-| U2-C5-L5-O3 | Provide specific examples of carrier proteins that mediate secondary active transport. | 0 | Not assessed; see units/U02.md |
+| U2-C5-L5-O1 | Compare primary active transport and secondary active transport. | 1 | 2026-11-04: Ch5 L5 first-pass closed-book interactive MCQs Q1, Q2, Q8 correct: direct ATP-powered primary transport versus secondary use of Na+ electrochemical gradient; predicted weaker Na+ gradient reduces uphill glucose cotransport. Selected-answer recognition/application, independent comparison not yet demonstrated |
+| U2-C5-L5-O2 | Describe the functional significance of the Na+/K+ ATPase. | 1 | 2026-11-04: Ch5 L5 first-pass closed-book interactive MCQs Q3, Q4, Q5 correct: 3 Na+ out/2 K+ in per ATPase cycle (Figure 5.16), ATP-dependent conformational change, and predicted dissipation of ion gradients if pump inhibited. Selected-answer application, independent description not yet demonstrated |
+| U2-C5-L5-O3 | Provide specific examples of carrier proteins that mediate secondary active transport. | 1 | 2026-11-04: Ch5 L5 first-pass closed-book interactive MCQs Q6/Q7 correct: Na+/glucose symporter for uptake and Na+/H+ antiporter for H+ efflux/pH regulation. Other retained named carriers discussed. Selected-answer recognition; unprompted examples not yet verified |
 | U2-C5-L6-O1 | Describe the different types of endocytosis. | 0 | Not assessed; see units/U02.md |
 | U2-C5-L6-O2 | Explain how exocytosis occurs. | 0 | Not assessed; see units/U02.md |
 | U2-C5-L7-O1 | Define transepithelial transport. | 0 | Not assessed; see units/U02.md |
