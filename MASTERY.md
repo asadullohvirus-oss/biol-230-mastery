@@ -1,7 +1,7 @@
 # Mastery Matrix
 
-Last updated: 2026-11-04
-Status: UNIT 2 CH5 L1–5 FIRST-PASS CHECKED; L5 8/8; M016/M017 STILL CONFIRMED
+Last updated: 2026-11-07
+Status: UNIT 2 CH5 FIRST-PASS LESSONS 1–7; L6–7 9/12; INDEPENDENT CH5 TRANSFER NEXT
 
 ## Scale
 
@@ -18,7 +18,7 @@ Mastery is based on demonstrated closed-book performance, not reading completion
 | Unit | Chapters | Current mastery | Evidence |
 |---|---|---:|---|
 | Unit 1 | 1–4 | 8 of 48 objectives at ≥3; 0 still at 0 | Chapter 4 all eight lessons first-pass practised; Lessons 5–8 changed-context MCQ 11/12 (Oct 30), with one recurring glycogen storage distinction, official WileyPLUS/practice completion and full unit readiness unverified |
-| Unit 2 | 5–8 | 9 of 59 objectives at ≥1 | Ch5 Lessons 1–4 initial 16/20 (Nov 1), targeted 1/4 (Nov 4) with M016/M017 confirmed; L5 active transport first-pass 8/8 (Nov 4), three objectives level 1. L4-O4 still 0; independent explanations and WileyPLUS completion unverified |
+| Unit 2 | 5–8 | 13 of 59 objectives at ≥1 | Ch5 first-pass lessons 1–7 covered. L1–4 16/20 plus targeted 1/4, L5 8/8, L6–7 9/12 (Nov 7). Four new L6–7 objectives at level 1; L7-O1 and L4-O4 remain 0. M016/M017 confirmed; independent transfer and WileyPLUS completion unverified |
 | Unit 3 | 9–12 | 0 | Not studied |
 | Unit 4 | 13–15 | 0 | Not studied |
 | Unit 5 | 16–19 | 0 | Not studied |
@@ -135,11 +135,11 @@ The 59 objectives below come from the official chapter Study Guide pages. Readin
 | U2-C5-L5-O1 | Compare primary active transport and secondary active transport. | 1 | 2026-11-04: Ch5 L5 first-pass closed-book interactive MCQs Q1, Q2, Q8 correct: direct ATP-powered primary transport versus secondary use of Na+ electrochemical gradient; predicted weaker Na+ gradient reduces uphill glucose cotransport. Selected-answer recognition/application, independent comparison not yet demonstrated |
 | U2-C5-L5-O2 | Describe the functional significance of the Na+/K+ ATPase. | 1 | 2026-11-04: Ch5 L5 first-pass closed-book interactive MCQs Q3, Q4, Q5 correct: 3 Na+ out/2 K+ in per ATPase cycle (Figure 5.16), ATP-dependent conformational change, and predicted dissipation of ion gradients if pump inhibited. Selected-answer application, independent description not yet demonstrated |
 | U2-C5-L5-O3 | Provide specific examples of carrier proteins that mediate secondary active transport. | 1 | 2026-11-04: Ch5 L5 first-pass closed-book interactive MCQs Q6/Q7 correct: Na+/glucose symporter for uptake and Na+/H+ antiporter for H+ efflux/pH regulation. Other retained named carriers discussed. Selected-answer recognition; unprompted examples not yet verified |
-| U2-C5-L6-O1 | Describe the different types of endocytosis. | 0 | Not assessed; see units/U02.md |
-| U2-C5-L6-O2 | Explain how exocytosis occurs. | 0 | Not assessed; see units/U02.md |
-| U2-C5-L7-O1 | Define transepithelial transport. | 0 | Not assessed; see units/U02.md |
-| U2-C5-L7-O2 | Describe the difference between absorption and secretion. | 0 | Not assessed; see units/U02.md |
-| U2-C5-L7-O3 | Explain how transcytosis occurs. | 0 | Not assessed; see units/U02.md |
+| U2-C5-L6-O1 | Describe the different types of endocytosis. | 1 | 2026-11-07: Ch5 L6 interactive initial MCQ Q1-Q3 correct on selective receptor-mediated LDL uptake, receptor recycling versus lysosomal cargo fate, and phagocytosis/pseudopods/phagosome. Q4 incorrect C carrier-facilitated diffusion versus D bulk-phase endocytosis/pinocytosis for nonselective fluid uptake; corrected. MCQ recognition only; full unprompted comparison pending |
+| U2-C5-L6-O2 | Explain how exocytosis occurs. | 1 | 2026-11-07: Ch5 L6 initial interactive MCQ Q5-Q6 correct on SNARE-dependent vesicle-plasma membrane fusion and v-SNARE in vesicle/t-SNARE in target. Correct 2/2 relevant items; selected-answer recognition/application only, no independent mechanism explanation |
+| U2-C5-L7-O1 | Define transepithelial transport. | 0 | 2026-11-07: Ch5 L7 first-pass taught (movement across polarized epithelial cells). Q7 wrong D uniform transport capability versus A epithelial polarity despite different apical/basolateral transporters; Q10 correct on tight junctions defining domains and limiting paracellular passage. No direct closed-book definition demonstrated; remain 0 pending new independent definition |
+| U2-C5-L7-O2 | Describe the difference between absorption and secretion. | 1 | 2026-11-07: Ch5 L7 initial MCQ Q8 correct intestinal lumen-to-blood absorption; Q9 wrong C reabsorption versus B secretion for kidney blood-to-tubule lumen. Corrected opposing directions; MCQ recognition partial/inconsistent, no unprompted compare/contrast yet |
+| U2-C5-L7-O3 | Explain how transcytosis occurs. | 1 | 2026-11-07: Ch5 L7 Q11 correctly selected vesicular endocytosis on one cell side, transport across cell, exocytosis opposite side; Q12 correctly classified transcytosis as active vesicular transport versus passive osmosis (retained Table 5.1). MCQ recognition/application only, independent chain pending |
 
 ### Chapter 6
 
