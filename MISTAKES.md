@@ -1,6 +1,6 @@
 # Mistake Ledger
 
-Last updated: 2026-11-04
+Last updated: 2026-11-08
 Status: ACTIVE
 
 Track meaningful conceptual errors only.
@@ -276,16 +276,16 @@ Resolution evidence:
 ### M016 — K+ concentration versus electrical gradient directional reasoning
 Unit: 2
 Chapter/objective: Chapter 5 Lesson 2 — U2-C5-L2-O1
-Status: CONFIRMED
+Status: IMPROVING
 Priority: High
 Root cause: causal-direction error / sign of electrical force versus concentration direction
 Typical error: Treats potassium movement as inward for both forces at a negative-inside resting cell; when cell interior is experimentally made positive, still assigns concentration-driven K+ motion inward and electrical motion outward.
 Correct model: K+ is more concentrated intracellularly, so its concentration gradient favours outward movement. A negative inside attracts K+ inward; a positive inside repels K+ outward. Electrochemical force combines both, with polarity possibly reinforcing or opposing the concentration force.
 Evidence/occurrences: 2026-11-01 initial Chapter 5 L2 MCQ Q6 incorrect (A vs C); 2026-11-04 targeted changed-context Q2 incorrect (selected B vs D) despite intervening explanation. 2026-11-04 Chat 03 independent new-context free response: 1/3 reasoning components. Said K+ concentration force inward 'due to charge' (incorrect: high-inside K+ diffuses outward); correctly named inward electrical attraction for negative-inside cell; did not explain effect of increasing negativity ('vibes'). Persistent causal-direction confusion; CONFIRMED.
 First observed: 2026-11-01
-Last observed: 2026-11-04
-Remediation: Re-taught separate concentration and electrical-force arrows, then their relative combination: intracellular K+ high drives outward; more negative interior attracts K+ inward more strongly and can reduce net outward movement (possibly reverse it if electrical force dominates). No demonstrated post-correction independent transfer.
-Retest strategy: During next spaced Chat 02 physiology review on/after 2026-11-07, use a new unhinted free-response K+ scenario with separate chemical/electrical arrow predictions and net direction conditional on relative forces. Do not repeat negative-inside strengthening or positive-inside reversal stems.
+Last observed: 2026-11-07 (improved independent changed-context response)
+Remediation: Re-taught separate concentration and electrical-force arrows, then their relative combination: intracellular K+ high drives outward; more negative interior attracts K+ inward more strongly and can reduce net outward movement (possibly reverse it if electrical force dominates). 2026-11-07 spaced novel unhinted transfer: correctly predicted concentration force inward (K+ outside higher), electrical force outward (positive inside), and net inward with stronger concentration force; initial phrase 'inside is higher' contradicted numeric setup. Improvement shown, but no clean repeated spaced evidence yet.
+Retest strategy: Later new no-hint transfer with consistent concentration comparison, electrical force and net effect; do not repeat the Nov 7 positive-inside scenario or infer resolution from one partially inconsistent attempt.
 Anki needed: Yes — persistent high-yield independent directional error; one nonduplicate prediction card added 2026-11-04.
 Anki card ID: m016 (anki/pending.tsv, 2026-11-04)
 Resolution evidence:
@@ -300,9 +300,9 @@ Typical error: Predicts no net water movement or water exit when external fluid 
 Correct model: Osmolarity counts all dissolved particles. Tonicity predicts cell-volume change from nonpenetrating solutes. When extracellular nonpenetrating solutes are reduced relative to intracellular nonpenetrating solutes, net water enters and cells swell; external solution can be isoosmotic (equal total particles) but hypotonic (fewer effective nonpenetrating particles).
 Evidence/occurrences: 2026-11-01 initial Chapter 5 L4 Q19 and Q20 wrong; 2026-11-04 targeted new-context Q3 chose water exit after external dilution (correct inward), Q4 chose hyperosmotic/isotonic for equal 300 mOsM outside pure freely penetrating urea vs inside nonpenetrating (correct isoosmotic/hypotonic and swelling). 2026-11-04 Chat 03 independent new-context free response: 0/3. For outside 360 mOsm/L total (180 nonpenetrating + 180 penetrating) versus initially 300 nonpenetrating inside, called outside isotonic/isotonic and predicted unchanged cell volume; correct hyperosmotic, hypotonic, and swelling after penetrant equilibration. CONFIRMED.
 First observed: 2026-11-01
-Last observed: 2026-11-04
-Remediation: Re-taught two independent comparisons: total solute (360 outside vs 300 inside) makes exterior initially hyperosmotic; effective nonpenetrating solute (180 outside vs 300 inside) makes it hypotonic, so sustained water entry/swelling follows permeant equilibration. No post-correction independent success yet.
-Retest strategy: During next spaced Chat 02 physiology review on/after 2026-11-07, independently compare total solute vs effective nonpenetrating solute in a different mixed-solute case, predict water movement and cell-volume effect, and explain why. Do not repeat prior 300/360 mixture, pure urea/erythrocyte, or dilution stems.
+Last observed: 2026-11-07 (0/3, unanswered spaced retest)
+Remediation: Re-taught two independent comparisons: total solute (360 outside vs 300 inside) makes exterior initially hyperosmotic; effective nonpenetrating solute (180 outside vs 300 inside) makes it hypotonic, so sustained water entry/swelling follows permeant equilibration. 2026-11-07 new mixed-solute case (outside 285 total/240 nonpenetrating; inside 330 total/170 nonpenetrating): independent response 'idk' to osmolarity, tonicity, water movement/cell volume. No successful independent performance. Correct classifications: outside hypoosmotic and hypertonic, net water exit and shrinkage after penetrant equilibration.
+Retest strategy: After targeted review, test a genuinely different unhinted mixed-solute case comparing total particles versus nonpenetrating particles and volume prediction. Avoid repeating earlier stems; do not resolve from correction alone.
 Anki needed: Yes — persistent high-yield difference between osmolarity and tonicity; one nonduplicate prediction card added 2026-11-04.
 Anki card ID: m017 (anki/pending.tsv, 2026-11-04)
 Resolution evidence:
