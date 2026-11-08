@@ -1,7 +1,7 @@
 # Mastery Matrix
 
 Last updated: 2026-11-08
-Status: UNIT 2 CH5 TRANSFER LOGGED; CH6 L1 INITIAL 3/6 AT LEVEL 1; CH6 L2 NEXT
+Status: UNIT 2 CH5 TRANSFER LOGGED; CH6 L2 8/9 LEVEL-1 OBJECTIVES; CH6 L3 NEXT
 
 ## Scale
 
@@ -18,7 +18,7 @@ Mastery is based on demonstrated closed-book performance, not reading completion
 | Unit | Chapters | Current mastery | Evidence |
 |---|---|---:|---|
 | Unit 1 | 1–4 | 8 of 48 objectives at ≥3; 0 still at 0 | Chapter 4 all eight lessons first-pass practised; Lessons 5–8 changed-context MCQ 11/12 (Oct 30), with one recurring glycogen storage distinction, official WileyPLUS/practice completion and full unit readiness unverified |
-| Unit 2 | 5–8 | 14 of 59 objectives at ≥1 | Ch5 lessons 1–7 first-pass and independent transfer; M016 IMPROVING, M017 CONFIRMED, Ch5 L6/L7 independent gaps remain. Ch6 L1 initial 3/6 plus partial free response, level 1; Lesson 2 first-pass next. WileyPLUS unverified |
+| Unit 2 | 5–8 | 17 of 59 objectives at ≥1 | Ch5 first-pass and independent transfer with lingering gaps; M016 IMPROVING and M017 CONFIRMED. Ch6 L1 3/6 and partial response, level 1; Ch6 L2 initial 8/9, all 3 objectives level 1 MCQ-only, no independent explanation; Ch6 L3 next. WileyPLUS unverified |
 | Unit 3 | 9–12 | 0 | Not studied |
 | Unit 4 | 13–15 | 0 | Not studied |
 | Unit 5 | 16–19 | 0 | Not studied |
@@ -150,9 +150,9 @@ The 59 objectives below come from the official chapter Study Guide pages. Readin
 | ID | Official objective | Mastery | Evidence |
 |---|---|---:|---|
 | U2-C6-L1-O1 | Describe the different ways that cells can communicate with one another. | 1 | 2026-11-08: Lesson 1 initial closed-book MCQ 3/6 (Q3 cell-surface binding, Q4 receptor-specific target response, Q6 signal transduction correct; Q1 confused direct gap-junction ion exchange with surface binding, Q2 confused connexin channel function with universal secretion, Q5 incorrectly chose gap junctions as most common rather than extracellular chemical messengers). Short unprompted response named gap junctions and extracellular chemical messages but did not explain connexon ion flow, target receptors, or why non-target cell lacks response. Partial identification/recognition, no complete independent mechanism; level 1. Q1/Q2/Q5 corrected, changed-context retrieval needed. Not a WileyPLUS result |
-| U2-C6-L2-O1 | Compare the three main types of extracellular chemical messengers. | 0 | Not assessed; see units/U02.md |
-| U2-C6-L2-O2 | Explain the difference between water-soluble extracellular messengers and lipid-soluble extracellular messengers. | 0 | Not assessed; see units/U02.md |
-| U2-C6-L2-O3 | Describe how extracellular messengers reach their target cells. | 0 | Not assessed; see units/U02.md |
+| U2-C6-L2-O1 | Compare the three main types of extracellular chemical messengers. | 1 | 2026-11-08 Ch6 L2 closed-book 8/9 overall MCQ checkpoint: Q1–Q4 correct distinguishing endocrine hormones via blood, synaptic neurotransmitters via synaptic cleft, autocrine/paracrine local mediators, and release route versus molecular identity. Selected-answer comparison only; no independent written explanation provided |
+| U2-C6-L2-O2 | Explain the difference between water-soluble extracellular messengers and lipid-soluble extracellular messengers. | 1 | 2026-11-08 Ch6 L2 MCQ: Q5 steroid lipid-soluble vs peptide water-soluble correct, Q6 incorrect D (neither) vs C (thyroid hormones classified lipid-soluble in the AU-custom textbook), Q7 most water-soluble hormones free in plasma correct, Q8 most lipid-soluble hormones carrier-bound in plasma correct. Partial selected-answer evidence; independent membrane-permeability explanation not demonstrated |
+| U2-C6-L2-O3 | Describe how extracellular messengers reach their target cells. | 1 | 2026-11-08 Ch6 L2 MCQ Q1 blood to distant liver cells, Q2 diffusion across synaptic cleft, Q3 local same/nearby cell, Q7/Q8 blood transport form and Q9 interstitial paracrine movement correct. Selected-answer route recognition/application only, no independent explanation demonstrated |
 | U2-C6-L3-O1 | Discuss the properties of messenger–receptor binding. | 0 | Not assessed; see units/U02.md |
 | U2-C6-L3-O2 | Describe where receptors may be located in a target cell. | 0 | Not assessed; see units/U02.md |
 | U2-C6-L3-O3 | Explain how receptors are regulated. | 0 | Not assessed; see units/U02.md |
