@@ -1,7 +1,7 @@
 # Mastery Matrix
 
 Last updated: 2026-11-09
-Status: UNIT 2 CH6 L4 9/9 WITH THREE OBJECTIVES LEVEL 1; CH6 L5 FIRST-PASS NEXT
+Status: UNIT 2 CH6 FIRST-PASS LESSONS 1–5 COMPLETED; L5 6/6 LEVEL 1; INDEPENDENT TRANSFER NEXT
 
 ## Scale
 
@@ -18,7 +18,7 @@ Mastery is based on demonstrated closed-book performance, not reading completion
 | Unit | Chapters | Current mastery | Evidence |
 |---|---|---:|---|
 | Unit 1 | 1–4 | 8 of 48 objectives at ≥3; 0 still at 0 | Chapter 4 all eight lessons first-pass practised; Lessons 5–8 changed-context MCQ 11/12 (Oct 30), with one recurring glycogen storage distinction, official WileyPLUS/practice completion and full unit readiness unverified |
-| Unit 2 | 5–8 | 23 of 59 objectives at ≥1 | Ch5 first-pass and transfer with gaps; M016 IMPROVING, M017 CONFIRMED. Ch6 L1 3/6, L2 8/9, L3 10/10, L4 9/9 (three L4 objectives at level 1). Ch6 L5 next; no independent L4 explanation or WileyPLUS completion verified |
+| Unit 2 | 5–8 | 24 of 59 objectives at ≥1 | Ch5 first-pass and independent transfer with gaps; M016 IMPROVING, M017 CONFIRMED. Ch6 lessons 1–5 initial practice complete: L1 3/6, L2 8/9, L3 10/10, L4 9/9, L5 6/6 (L5-O1 level 1). Independent Chapter 6 transfer and WileyPLUS completion unverified |
 | Unit 3 | 9–12 | 0 | Not studied |
 | Unit 4 | 13–15 | 0 | Not studied |
 | Unit 5 | 16–19 | 0 | Not studied |
@@ -159,7 +159,7 @@ The 59 objectives below come from the official chapter Study Guide pages. Readin
 | U2-C6-L4-O1 | Identify the components of a signal transduction pathway. | 1 | 2026-11-09 Lesson 4 first-pass closed-book interactive MCQs 9/9 overall: Q1–Q3 correctly identified receptor → relay proteins → effector protein → cellular response (Fig 6.12); predicted failure with inactive effector; recognized intracellular second messenger cAMP/Ca2+ (Fig 6.13). Selected-answer recognition/application only, no independent causal free response |
 | U2-C6-L4-O2 | Explain how signaling through intracellular receptors occurs. | 1 | 2026-11-09 Lesson 4 initial MCQs Q4–Q6 all correct: lipid-soluble messenger reaches receptor in cytosol or nucleus; new protein synthesis can delay response; absent receptor impairs receptor-dependent response despite messenger entry. Selected-answer application, no independent explanation; exclude Fig 6.15–6.25 details |
 | U2-C6-L4-O3 | Discuss the various ways by which signaling through plasma membrane receptors can occur. | 1 | 2026-11-09 Lesson 4 initial MCQs Q7–Q9 all correct: surface messenger triggers intracellular second-messenger relay without entering cell; protein kinase phosphorylation may activate/inhibit target (Fig 6.14); loss of required second messenger blocks downstream response. MCQ-level evidence only, no independent mechanism chain |
-| U2-C6-L5-O1 | Compare control of body functions by the nervous and endocrine systems. | 0 | Not assessed; see units/U02.md |
+| U2-C6-L5-O1 | Compare control of body functions by the nervous and endocrine systems. | 1 | 2026-11-09: First-pass closed-book interactive Lesson 5 MCQ 6/6, all correct: Q1 graded potentials in dendrites/cell body versus action potentials along axon; Q2 synaptic neurotransmitter release; Q3 endocrine blood-carried hormones to distant targets; Q4–Q5 bidirectional neural-endocrine influence; Q6 Checkpoint 20 neurotransmitters versus hormones. Recognition/selected-answer application only, no independent free-response comparison; excluded red-struck Table 6.1 not tested. Chapter 6 first-pass complete, independent Chapter 6 transfer pending |
 
 ### Chapter 7
 
