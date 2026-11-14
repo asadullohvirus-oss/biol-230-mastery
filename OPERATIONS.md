@@ -1,6 +1,6 @@
 # Operations and Critical Dependencies
 
-Last updated: 2026-11-01
+Last updated: 2026-11-14
 
 ## Course contract
 
@@ -35,9 +35,9 @@ Our accelerated plan should request exams as early as official rules and readine
 ### Midterm 1
 Coverage: Units 1–2 / Chapters 1–8
 Academic readiness: Not ready
-Exam requested: No
-Request date:
-Scheduled date:
+Exam requested: Yes — AU Exam Request Complete confirmation
+Request date: Not shown on confirmation; recorded 2026-11-14
+Scheduled date: 2026-11-24 — at home via ProctorU (appointment booked per student report; exact start time and time zone not on AU confirmation). High-priority all-day Google Calendar marker added; verify time in ProctorU.
 Completed:
 Grade:
 
@@ -80,7 +80,7 @@ The official minimum is 10 days for ProctorU or an already-approved in-person in
 - Midterm 2: Units 3–4, Chapters 9–15, same format/weight/minimum.
 - The current AU calendar indicates no general tutor permission is needed merely to request an exam. Do not mistake the Study Guide's recommended Quiz 2 → A1 → Midterm 1 ordering for a verified booking prerequisite. Independently confirm any specific course-release restrictions in Brightspace.
 - AU policies may impose different lead times for accessibility accommodations (≥20 days) or a proposed new invigilator; check the current rules when applicable.
-- This entry records procedural verification only. **Neither midterm has been booked or written according to current GitHub state**.
+- This entry records procedural verification. See the Midterm 1 status above for the confirmed AU request date of writing. No Midterm 2 booking or completed midterm is recorded.
 
 ## Home Lab Kit critical path
 
