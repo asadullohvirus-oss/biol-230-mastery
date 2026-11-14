@@ -1,7 +1,7 @@
 # Mastery Matrix
 
 Last updated: 2026-11-14
-Status: UNIT 2 CH6 FIRST-PASS AND INDEPENDENT APPLICATION CHECK COMPLETE WITH GAPS; CH7 L1 NEXT
+Status: UNIT 2 CH6 FIRST-PASS AND INDEPENDENT APPLICATION CHECK COMPLETE WITH GAPS; CH7 L1 INITIAL CHECKPOINT COMPLETE
 
 ## Scale
 
@@ -18,7 +18,7 @@ Mastery is based on demonstrated closed-book performance, not reading completion
 | Unit | Chapters | Current mastery | Evidence |
 |---|---|---:|---|
 | Unit 1 | 1–4 | 8 of 48 objectives at ≥3; 0 still at 0 | Chapter 4 all eight lessons first-pass practised; Lessons 5–8 changed-context MCQ 11/12 (Oct 30), with one recurring glycogen storage distinction, official WileyPLUS/practice completion and full unit readiness unverified |
-| Unit 2 | 5–8 | 24 of 59 objectives at ≥1 | Ch5 first-pass and independent transfer with gaps; M016 IMPROVING, M017 CONFIRMED. Ch6 lessons 1–5 initial practice complete: L1 3/6, L2 8/9, L3 10/10, L4 9/9, L5 6/6 (L5-O1 level 1). Chapter 6 independent application completed with mechanism gaps and no level increases; WileyPLUS completion unverified |
+| Unit 2 | 5–8 | 26 of 59 objectives at ≥1 | Ch5 first-pass and independent transfer with gaps; M016 IMPROVING, M017 CONFIRMED. Ch6 lessons 1–5 initial practice complete: L1 3/6, L2 8/9, L3 10/10, L4 9/9, L5 6/6 (L5-O1 level 1). Chapter 6 independent application completed with mechanism gaps and no level increases; WileyPLUS completion unverified |
 | Unit 3 | 9–12 | 0 | Not studied |
 | Unit 4 | 13–15 | 0 | Not studied |
 | Unit 5 | 16–19 | 0 | Not studied |
@@ -177,8 +177,8 @@ Chapter 6 independent application check complete with gaps; no graded or WileyPL
 
 | ID | Official objective | Mastery | Evidence |
 |---|---|---:|---|
-| U2-C7-L1-O1 | Describe the subdivisions of the nervous system. | 0 | Not assessed; see units/U02.md |
-| U2-C7-L1-O2 | Explain the functions of the nervous system. | 0 | Not assessed; see units/U02.md |
+| U2-C7-L1-O1 | Describe the subdivisions of the nervous system. | 1 | 2026-11-14 Chat 01 applied MCQ 3/3; selected-response recognition, not independent explanation. |
+| U2-C7-L1-O2 | Explain the functions of the nervous system. | 1 | 2026-11-14 Chat 01 applied MCQ 2/3; efferent output and ordered sequence recognized; distinguishing intact sensory delivery from a change in CNS integration still needs practice. Selected-response only. |
 | U2-C7-L2-O1 | Discuss the functions of neurons. | 0 | Not assessed; see units/U02.md |
 | U2-C7-L2-O2 | List the roles of neuroglia. | 0 | Not assessed; see units/U02.md |
 | U2-C7-L2-O3 | Explain the importance of myelination. | 0 | Not assessed; see units/U02.md |
