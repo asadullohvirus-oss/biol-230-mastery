@@ -177,8 +177,8 @@ Chapter 6 independent application check complete with gaps; no graded or WileyPL
 
 | ID | Official objective | Mastery | Evidence |
 |---|---|---:|---|
-| U2-C7-L1-O1 | Describe the subdivisions of the nervous system. | 1 | 2026-11-14 Chat 01 applied MCQ 3/3; selected-response recognition, not independent explanation. |
-| U2-C7-L1-O2 | Explain the functions of the nervous system. | 1 | 2026-11-14 Chat 01 applied MCQ 2/3; efferent output and ordered sequence recognized; distinguishing intact sensory delivery from a change in CNS integration still needs practice. Selected-response only. |
+| U2-C7-L1-O1 | Describe the subdivisions of the nervous system. | 1 | 2026-11-14 Chat 01 applied MCQ 3/3; selected-response recognition, not independent explanation.  Follow-up Trace, Explain, Predict MCQ 2/3: skeletal-muscle output misclassified as autonomic; recognition is inconsistent, level 1 retained. |
+| U2-C7-L1-O2 | Explain the functions of the nervous system. | 1 | 2026-11-14 Chat 01 applied MCQ 2/3; efferent output and ordered sequence recognized; distinguishing intact sensory delivery from a change in CNS integration still needs practice. Selected-response only.  Follow-up applied MCQ 0/3: confused efferent delivery with effector action and sensory delivery with CNS integration. Level 1 retained from earlier evidence, not reliably reproduced; targeted reassessment needed. |
 | U2-C7-L2-O1 | Discuss the functions of neurons. | 0 | Not assessed; see units/U02.md |
 | U2-C7-L2-O2 | List the roles of neuroglia. | 0 | Not assessed; see units/U02.md |
 | U2-C7-L2-O3 | Explain the importance of myelination. | 0 | Not assessed; see units/U02.md |
