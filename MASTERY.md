@@ -1,7 +1,7 @@
 # Mastery Matrix
 
-Last updated: 2026-11-09
-Status: UNIT 2 CH6 FIRST-PASS LESSONS 1–5 COMPLETED; L5 6/6 LEVEL 1; INDEPENDENT TRANSFER NEXT
+Last updated: 2026-11-14
+Status: UNIT 2 CH6 FIRST-PASS AND INDEPENDENT APPLICATION CHECK COMPLETE WITH GAPS; CH7 L1 NEXT
 
 ## Scale
 
@@ -18,7 +18,7 @@ Mastery is based on demonstrated closed-book performance, not reading completion
 | Unit | Chapters | Current mastery | Evidence |
 |---|---|---:|---|
 | Unit 1 | 1–4 | 8 of 48 objectives at ≥3; 0 still at 0 | Chapter 4 all eight lessons first-pass practised; Lessons 5–8 changed-context MCQ 11/12 (Oct 30), with one recurring glycogen storage distinction, official WileyPLUS/practice completion and full unit readiness unverified |
-| Unit 2 | 5–8 | 24 of 59 objectives at ≥1 | Ch5 first-pass and independent transfer with gaps; M016 IMPROVING, M017 CONFIRMED. Ch6 lessons 1–5 initial practice complete: L1 3/6, L2 8/9, L3 10/10, L4 9/9, L5 6/6 (L5-O1 level 1). Independent Chapter 6 transfer and WileyPLUS completion unverified |
+| Unit 2 | 5–8 | 24 of 59 objectives at ≥1 | Ch5 first-pass and independent transfer with gaps; M016 IMPROVING, M017 CONFIRMED. Ch6 lessons 1–5 initial practice complete: L1 3/6, L2 8/9, L3 10/10, L4 9/9, L5 6/6 (L5-O1 level 1). Chapter 6 independent application completed with mechanism gaps and no level increases; WileyPLUS completion unverified |
 | Unit 3 | 9–12 | 0 | Not studied |
 | Unit 4 | 13–15 | 0 | Not studied |
 | Unit 5 | 16–19 | 0 | Not studied |
@@ -146,6 +146,18 @@ The 59 objectives below come from the official chapter Study Guide pages. Readin
 | U2-C5-L7-O3 | Explain how transcytosis occurs. | 1 | 2026-11-07: Ch5 L7 Q11 correctly selected vesicular endocytosis on one cell side, transport across cell, exocytosis opposite side; Q12 correctly classified transcytosis as active vesicular transport versus passive osmosis (retained Table 5.1). MCQ recognition/application only, independent chain pending |
 
 ### Chapter 6
+
+### Chapter 6 independent application — 2026-11-14
+
+Six closed-book, no-choice scenarios assessed across Lessons 1–5. No objective-level increases: the correct independent components below were narrower than the full objectives.
+
+- L1-O1: Predicted loss of electrical spread when intercellular ion flow was blocked, but again confused gap junctions with other signaling routes; did not explain receptor-specific target response. Prioritize distinguishing cytoplasmic channels, membrane-bound contact signals, and secreted messengers.
+- L2-O1/O2/O3: Identified endocrine and paracrine routes and a neurotransmitter; missed the synaptic route label and autocrine action. Correctly predicted interruption of blood delivery affects endocrine signaling directly and distinguished free versus carrier-bound blood transport; incorrectly attributed carrier use to a change in the ligand's polarity and omitted receptor locations.
+- L3-O1/O3: Independently identified specificity and antagonism; did not explain relative affinity, saturation, effects of competition on binding/response, or down-regulation after sustained exposure.
+- L4-O1/O3: No independent explanation of the second-messenger/kinase chain or bypass of an upstream defect. L3-O2/L4-O2: Correctly inferred an intracellular receptor when bypassing a membrane barrier restored the response, but did not identify new protein synthesis as the cause of the delay.
+- L5-O1: Predicted loss of the hormone-induced change in neuronal activity after receptor block, but assigned blood transport to the neural leg and did not trace the electrical, synaptic, and endocrine steps or explain bidirectional regulation.
+
+Chapter 6 independent application check complete with gaps; no graded or WileyPLUS completion inferred. M016 IMPROVING and M017 CONFIRMED were not reassessed. Next: Chat 01 for Chapter 7 Lesson 1, U2-C7-L1-O1/O2.
 
 | ID | Official objective | Mastery | Evidence |
 |---|---|---:|---|
