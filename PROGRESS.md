@@ -1,36 +1,48 @@
 # Progress Dashboard
 
-Updated: 2026-11-01 (user-reported milestone)
-Status: QUIZ 1 TAKEN; UNIT 2 OFFICIAL STUDY GUIDE CHAPTERS 5–8 INGESTED; CH5 LESSONS 1–4 READ
+Updated: 2026-11-14
+Status: MIDTERM 1 BOOKED FOR 2026-11-24; UNIT 2 IN PROGRESS — CH5/CH6 FIRST PASS COMPLETE, CH7 LESSON 2 IN PROGRESS
 
 ## Official course completion vs demonstrated mastery
 - Quiz 1, Unit 1 / Ch 1–4: **attempted November 1, 2026** (user report).
 - Quiz 1 score: **pending/unreported**; pass status: **unverified**.
 - Quizzes attempted: 1/6. Confirmed passes: 0 recorded (not a failed-quiz assertion).
 - Quiz 2–6: not recorded as attempted.
-- Assignments 1–3: no submissions recorded.
-- Midterm 1/2 and Final: no completed exam recorded; Midterm 1 booking not confirmed.
+- Assignment 1: **not submitted** in current records.
+- Assignments 2–3: no submissions recorded.
+- Midterm 1: **booked for Tuesday, November 24, 2026, at home via ProctorU**; AU exam request recorded complete. Calendar entry is an all-day marker only; **no exam start time is established in the canonical state**.
+- Midterm 2 and Final: no completed exam recorded.
 - Lab Assignment / Home Lab Kit: no completion or kit receipt recorded.
-- Demonstrated mastery: keep MASTERY.md objective evidence unchanged; taking a quiz does not automatically increase mastery.
+- Demonstrated mastery remains evidence-based in MASTERY.md; reading/checkpoints do not automatically imply objective mastery.
 
-## Academic next step
-- Unit 2 = Chapters 5–8 (Transport Across Plasma Membrane; Cell Signaling; Nervous System/Neuronal Excitability; Central Nervous System).
-- Official Study Guide pages for Chapters 5–8 were received 2026-11-01 as Ch5/Ch6 HTML ZIP exports and Ch7/Ch8 PDFs. Verified 21 lessons and 59 objectives (Chapter 5: seven lessons, not four). Required figures/tables and explicit omissions mapped in units/U02.md. Separate `Unit_2.pdf` is the marked AU-custom textbook excerpt. Student reports reading Chapter 5 Lessons 1–4 of seven; no mastery or WileyPLUS completion inferred. Unit-level colour-highlight legend still unverified.
-- Chat 01 should start short interactive retention checks on the already-read Chapter 5 Lessons 1–4 within mapped official scope, first Lesson 1 selective permeability, then learn remaining Chapter 5 Lessons 5–7. Route to Chat 02 when independent mechanism/prediction practice is due.
-- Do not increase mastery automatically for reading; use fresh performance evidence. Quiz 1 actual score and pass status remain unreported/unverified.
+## Current Unit 2 state
+- Unit 2 = Chapters 5–8.
+- Chapter 5: all 7 lessons first-pass taught/checked; independent transfer gaps remain, especially K+ electrochemical-gradient reasoning (M016), osmolarity/tonicity and cell-volume prediction (M017), endocytosis types, epithelial polarity, and absorption/reabsorption/secretion directions. WileyPLUS/Adaptive Practice completion is not confirmed.
+- Chapter 6: all 5 lessons first-pass taught/checked. Independent Chapter 6 transfer across signalling mechanisms remains incomplete; WileyPLUS/Adaptive Practice completion is not confirmed.
+- Chapter 7: Lesson 1 first-pass/applied selected-response work completed with inconsistent recognition; Lesson 2 neuron-function first checkpoint was 1/6 and remains in progress. Lessons 3–6 are not recorded complete.
+- Chapter 8: no learning completion recorded.
 
-## Unit 1 historical learning snapshot
-- Units 1 Ch 1–4 taught/practised in the specialist chats through Oct 30; see units/U01.md and MASTERY.md for objective evidence.
-- Quiz 1 taken on Nov 1 supersedes older notes saying Quiz 1 had not been attempted.
-- Older October calendar targets are obsolete; reforecast using actual course speed and requirements.
+## Current academic priority
+1. Continue Unit 2 in Chat 01 from Chapter 7 Lesson 2; do not skip ahead as though Chapters 7–8 are complete.
+2. Use Chat 02 for fresh, no-hint closed-book transfer on persistent Unit 2 gaps and selected Unit 1 recurring weaknesses.
+3. Begin/advance Assignment 1 in Chat 05 without drafting material dependent on unlearned Chapter 8 content.
+4. Do not use Chat 04 for a full Midterm 1 simulation until Chapters 5–8 are covered and mixed practice shows near-exam readiness.
 
-## Near-term operations
-- Start studying Unit 2 after official objectives are available, with closed-book retrieval, WileyPLUS/Adaptive Practice and selective Anki.
-- Begin Assignment 1 preparation (Units 1–2, Ch 1–8) incrementally in Chat 05; do not ghostwrite direct-submission answers.
-- Verify Midterm 1 appointment availability and submit an AU exam request at least 10 days before writing as appropriate; check OPERATIONS.md.
-- Quiz 1 objective-level instructor feedback expected within eight business days under course information; use actual feedback when received.
-- Lab-kit shipment critical path: A2 graded before kit ships; this must be protected.
-- Early-December target remains high risk pending a credible reforecast of pacing, assignments, exam bookings and grading/shipping.
+## Midterm 1
+- Date: **2026-11-24**
+- Mode: **at home via ProctorU**
+- Coverage: **Units 1–2 / Chapters 1–8**
+- Format: **100 MCQ / 120 min**
+- Weight: **18%**
+- Minimum: **50%**
+- Readiness: **not yet established** because Unit 2 coverage is incomplete and several recurring transfer gaps remain.
+- Start time: **unknown / not recorded**. Do not infer a time from the all-day calendar marker.
+
+## Operations / critical path
+- Assignment 1 remains outstanding in current records.
+- Assignment 2 remains unsubmitted; Home Lab Kit shipment remains locked behind the Assignment 2 mark.
+- Early-December completion target remains high risk until Unit 2, Assignment 1, Midterm 1, subsequent units, Assignment 2 grading, and lab-kit timing progress materially.
 
 ## Next chat
-Chat 01 — Learn: Mechanisms & Understanding. Ingest Unit 2 Study Guide if provided, then Chapter 5 Lesson 1 within verified AU scope. Handoff to Chat 02 for genuine independent recall when ready.
+Chat 01 — Learn: Mechanisms & Understanding.
+Continue Chapter 7 Lesson 2 within official Unit 2 scope, repair the current neuron-function mechanism gaps, then proceed into Lesson 3 if Lesson 2 reaches a clean independent checkpoint. Route to Chat 02 afterward for mixed closed-book transfer; use Chat 05 for a short Assignment 1 block if time remains.
